@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Twitter: gema_naranyala](https://img.shields.io/twitter/follow/gema_naranyala?style=social)](https://twitter.com/gema_naranyala)
-[![Linkedin: fudzer-m-huda](https://img.shields.io/badge/-fudzer-m-huda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fudzer-m-huda/)](https://www.linkedin.com/in/fudzer-m-huda/)
+[![Linkedin: fudzer-m-huda](https://img.shields.io/badge/-fudzer-m-huda?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fudzer-m-huda/)](https://www.linkedin.com/in/fudzer-m-huda/)
 
 <!--
 **naranyala/naranyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
