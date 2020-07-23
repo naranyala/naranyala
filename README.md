@@ -1,6 +1,7 @@
 ### Hi there 👋
 <h2 style="font-family:Consolas;align:center;">I'm Fudzer Mifthakul Huda</h2>
-
+> Let's swing the oars, span the sails, and take control of the direction of our boat 🌊.
+---
 
 
 
@@ -10,9 +11,7 @@
 
 <!--
 ### Hi there 
-> Let's swing the oars, span the sails, and take control of the direction of our boat 🌊.
 
----
 <div style="width:50px;height:50px;">
 <img src="https://modernfarmer.com/wp-content/uploads/2015/03/tomatopart1_seeding_hero.jpg">
 <div>
