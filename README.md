@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h2 style="font-family:Consolas;align:center;">I'm Fudzer Mifthakul Huda</h2>
 > Let's swing the oars, span the sails, and take control of the direction of our boat 🌊.
----
-
+<br>
+<br>
 
 
 [![Twitter: gema_naranyala](https://img.shields.io/twitter/follow/gema_naranyala?style=social)](https://twitter.com/gema_naranyala)
