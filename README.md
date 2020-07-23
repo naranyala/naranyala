@@ -7,7 +7,6 @@
 <div style="width:50px;height:auto;">
 <img src="https://modernfarmer.com/wp-content/uploads/2015/03/tomatopart1_seeding_hero.jpg">
 <div>
-⭐️ From [@Naranyala](https://github.com/naranyala)
 <!--
 **naranyala/naranyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
