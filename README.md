@@ -1,8 +1,9 @@
 ### Hi there 👋
-<h2>Hi, I'm Fudzer Mifthakul Huda</h2>
+<h2>I'm Fudzer Mifthakul Huda</h2>
 
 [![Twitter: gema_naranyala](https://img.shields.io/twitter/follow/gema_naranyala?style=social)](https://twitter.com/gema_naranyala)
-
+[![Linkedin: Fudzer M Huda](https://img.shields.io/badge/-fudzer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fudzer-m-huda/)](https://www.linkedin.com/in/fudzer-m-huda/)
+![GitHub followers](https://img.shields.io/github/followers/naranyala?label=Follow&style=social)
 
 <!--
 **naranyala/naranyala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
