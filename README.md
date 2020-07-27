@@ -2,7 +2,7 @@
 <h2 style="font-family:Consolas;align:center;">I'm Fudzer Mifthakul Huda</h2>
 /* <br>
 * Let's swing the oars, span the sails, <br>
-* and take control of the direction of our boat 🌊. <br>
+* controlling the direction of our ship 🌊. <br>
 */
 <br>
 <br>
