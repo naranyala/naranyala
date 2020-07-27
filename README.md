@@ -1,6 +1,10 @@
 ### Hi there 👋
 <h2 style="font-family:Consolas;align:center;">I'm Fudzer Mifthakul Huda</h2>
-/* Let's swing the oars, span the sails, and take control of the direction of our boat 🌊. */
+/* 
+*
+* Let's swing the oars, span the sails, and take control of the direction of our boat 🌊. 
+*
+*/
 <br>
 <br>
 
