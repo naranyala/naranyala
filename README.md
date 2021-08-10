@@ -1,12 +1,19 @@
 ### Hi there 👋
 <h2 style="font-family:Consolas;align:center;">I'm Fudzer Mifthakul Huda 😎</h2>
-/* <br>
-* Let's swing the oars, span the sails, and <br>
-* controlling the direction of our ship 🌊. <br>
-*/
-<br>
-<br>
 
+<code>
+Find me on
+<a href="http://www.wordpress.com">Wordpress</a> | 
+<a href="http://www.quora.com">Quora</a> | 
+<a href="http://www.dev.to">DEV Community</a> | 
+<a href="http://www.medium.com">Medium</a> | 
+<a href="http://www.twitter.com">Twitter</a> | 
+<a href="http://www.youtube.com">Youtube</a> | 
+<a href="http://www.linkedin.com">LinkedIn</a> | 
+</code>
+<br><br>
+<blockquote>Let's swing the oars, span the sails, and controlling the direction of our ship 🌊 </blockquote>
+<br>
 
 [![](https://img.shields.io/twitter/follow/gema_naranyala?style=social)](https://twitter.com/gema_naranyala)
 [![Linkedin: Fudzer M Huda](https://img.shields.io/badge/-Fudzer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fudzer-m-huda/)](https://www.linkedin.com/in/fudzer-m-huda/)
