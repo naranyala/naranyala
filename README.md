@@ -8,7 +8,7 @@
 <a href="http://www.medium.com">Medium</a> | 
 <a href="http://www.twitter.com/gema_naranyala">Twitter</a> | 
 <a href="http://www.youtube.com">Youtube</a> | 
-<a href="http://www.linkedin.com">LinkedIn</a>
+<a href="http://www.linkedin.com">LinkedIn</a> | 
 <a href="#">#</a>
 </code>
 <br><br>
