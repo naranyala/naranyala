@@ -8,7 +8,8 @@
 <a href="http://www.medium.com">Medium</a> | 
 <a href="http://www.twitter.com/gema_naranyala">Twitter</a> | 
 <a href="http://www.youtube.com">Youtube</a> | 
-<a href="http://www.linkedin.com">LinkedIn</a> | 
+<a href="http://www.linkedin.com">LinkedIn</a>
+<a href="#">#</a>
 </code>
 <br><br>
 <blockquote>feel free to make a pull request, let's go to the border :zap: </blockquote>
@@ -20,4 +21,7 @@
 
 <!-- <code># Some of badge collection</code><br> -->
 
-
+<blockquote>
+<i>"The wind cannot defeat a tree with strong roots."</i><br>
+- The Revenant
+</blockquote>
