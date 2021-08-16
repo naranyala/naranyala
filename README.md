@@ -27,7 +27,8 @@
 <b>- The Revenant</b>
 </blockquote>
 
-<code># I'm write a code with nano in mobile device with Termux</code>
+<code># I write code with nano on a mobile device with Termux</code>
 <br>
-<code># I'm improving my code with Github Desktop too</code>
+<code># I also improved my code with Github Desktopo</code>
 <!-- This is awesome for beginner like me -->
+<code>And lastly we also review our code on Github Site</code>
