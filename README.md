@@ -23,5 +23,8 @@
 
 <blockquote>
 <i>"The wind cannot defeat a tree with strong roots."</i><br>
+
 - The Revenant
 </blockquote>
+
+<code>I'm write a code with nano in mobile device with Termux</code>
