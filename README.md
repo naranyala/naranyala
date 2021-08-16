@@ -29,6 +29,6 @@
 
 <code># I write code with nano on a mobile device with Termux</code>
 <br>
-<code># I also improved my code with Github Desktopo</code>
+<code># I improved my code with Github Desktop too</code>
 <!-- This is awesome for beginner like me -->
 <code># And lastly we also review our code on Github Site</code>
