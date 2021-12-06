@@ -1,25 +1,40 @@
 <h2 style="font-family:Consolas;align:center;">Welcome :metal: </h2>
 
+
+
 <code>
-# Find me on
-<a href="http://www.wordpress.com">Wordpress</a> | 
-<a href="http://www.quora.com">Quora</a> | 
-<a href="http://www.dev.to">DEV Community</a> | 
-<a href="http://www.medium.com">Medium</a> | 
-<a href="http://www.twitter.com/gema_naranyala">Twitter</a> | 
-<a href="http://www.youtube.com">Youtube</a> | 
-<a href="http://www.linkedin.com">LinkedIn</a> | 
-<a href="#">#</a>
+# Find me on here:
+<a target="_blank" href="http://www.twitter.com/gema_naranyala">Twitter</a> | 
+<a target="_blank" href="http://www.youtube.com">Youtube</a> | 
+<a target="_blank" href="http://www.linkedin.com">LinkedIn</a>
 </code>
-<br><br>
-<blockquote>feel free to make a pull request, let's go to the border :zap: </blockquote>
+<br>
+<code>
+# Or here: 
+<a target="_blank" href="http://www.wordpress.com">Wordpress</a> | 
+<a target="_blank" href="http://www.quora.com">Quora</a> | 
+<a target="_blank" href="http://www.dev.to">DEV</a> | 
+<a target="_blank" href="http://www.medium.com">Medium</a>
+</code>
+<hr>
+<code>
+  # Some playground: 
+  <a target="_blank" href="https://codepen.io/naranyala">Codepen</a> | 
+  <a target="_blank" href="https://jsfiddle.net/user/naranyala">JSFiddle</a>
+</code>
+<br>
+<code>
+  # Another: 
+  <a target="_blank" href="https://dribbble.com/naranyala">Dribble</a> | 
+  <a target="_blank" href="https://www.behance.net/fudzermifthak">Behance</a>
+</code>
 
-<code># Up coming</code>
-- [x] :books: improving learning-skills and reading-skills 
-- [ ] :computer: write better code skills
-- [ ] :globe_with_meridians: another world skills
+<code># Improving</code>
+- [x] :books: learning-and-reading skills
+- [ ] :computer: write-better-code skills
+- [ ] :globe_with_meridians: another-world skills
 
-<!-- <code># Some of badge collection</code><br> -->
+<hr>
 
 <blockquote>
 <i>"The wind cannot defeat a tree with strong roots."</i><br>
