@@ -37,9 +37,7 @@
 <hr>
 
 <blockquote>
-<i>"The wind cannot defeat a tree with strong roots."</i><br>
 
-<b>- The Revenant</b>
 </blockquote>
 
 <!--
