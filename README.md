@@ -16,7 +16,7 @@ About me <a target="_blank" href="http://naranyala.github.io">naranyala.github.i
 <a target="_blank" href="http://www.dev.to">DEV</a> | 
 <a target="_blank" href="http://www.medium.com">Medium</a>
 </code>
-<hr>
+<br>
 <code>
   # Some playground: 
   <a target="_blank" href="https://codepen.io/naranyala">Codepen</a> | 
@@ -29,7 +29,7 @@ About me <a target="_blank" href="http://naranyala.github.io">naranyala.github.i
   <a target="_blank" href="https://www.behance.net/fudzermifthak">Behance</a>
 </code>
 
-<code># Improving</code>
+<code># Improving:</code>
 - [x] :books: learning-and-reading skills
 - [ ] :computer: write-better-code skills
 - [ ] :globe_with_meridians: another-world skills
@@ -44,6 +44,5 @@ About me <a target="_blank" href="http://naranyala.github.io">naranyala.github.i
 
 [![Naranyala's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=naranyala&layout=compact&show_icons=truehide_border=false&theme=github_light)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr>
 
 [![Naranyala's GitHub stats](https://github-readme-stats.vercel.app/api?username=naranyala&layout=compact&show_icons=true&hide_border=false&theme=github_light)](https://github.com/anuraghazra/github-readme-stats)
