@@ -40,10 +40,10 @@
 
 </blockquote>
 
-<!--
-<code># I write code with nano on a mobile device with Termux</code>
-<br>
-<code># I improved my code with Github Desktop too</code>
-This is awesome for beginner like me
-<code># And lastly we also review our code on Github Site</code>
--->
+
+
+[![Naranyala's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=naranyala&layout=compact&show_icons=truehide_border=false&theme=github_light)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
+[![Naranyala's GitHub stats](https://github-readme-stats.vercel.app/api?username=naranyala&layout=compact&show_icons=true&hide_border=false&theme=github_light)](https://github.com/anuraghazra/github-readme-stats)
