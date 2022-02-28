@@ -1,6 +1,6 @@
 <h2 style="font-family:Consolas;align:center;">Welcome :metal: </h2>
 
-
+About me <a target="_blank" href="http://naranyala.github.io">naranyala.github.io</a>
 
 <code>
 # Find me on here:
