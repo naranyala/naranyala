@@ -9,6 +9,7 @@
     <b>Hi &#128075;</b>
     <br>
     <i>I'm a student of life,<br>learning gives me more dopamine.</i>
+    <br>
 </div>
 <br>
 
@@ -73,4 +74,10 @@ app.get('/', (req, res) => res.send('Hello again Mom!'));
 </div>
 
 <hr>
-<div align="center">**<b>*</b>**</div>
+<div align="center">
+    
+|  X  |  Y  |  Z  |
+| --- | --- | --- |
+|  01011000  |  01011001  |  01011010  |
+    
+</div>
