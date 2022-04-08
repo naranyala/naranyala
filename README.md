@@ -47,14 +47,13 @@
 
 <hr>
 
-```javascript
-const why = {
-  run(){
-    /* learning journey */
-  }
-};
+```php
+$app->get('/', fn() => print '<div id="root"><div>'));
+```
 
-why.run() //??
+
+```javascript
+app.get('/', () => '<script>document.getElementById("root").innerHTML = 'Hello Mom!'</script>')
 ```
 
 <blockquote>
