@@ -48,26 +48,33 @@
 <hr>
 
 ```php
-$app->get('/', fn() => print '<div id="root"><div>'));
+$app->get('/', fn($req, $res) => html($res, 'Hello Mom!'));
 ```
 
 
 ```javascript
-app.get('/', (req, res) => res.send('Hello Mom!'));
+app.get('/', (req, res) => res.send('Hello Again Mom!'));
 ```
 
 <blockquote>
 </blockquote>
 <hr>
 
+<div align="center">
+
 [![Naranyala's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=naranyala&layout=compact&show_icons=true&hide_border=false&theme=github_light)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+    
+<div align="center">  
 <details>
 <summary>My GitHub Stats</summary>
 
 [![Naranyala's GitHub stats](https://github-readme-stats.vercel.app/api?username=naranyala&layout=compact&show_icons=true&hide_border=false&theme=github_light)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+</div>
 
 <hr>
 <div align="center">**<b>*</b>**</div>
