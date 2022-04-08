@@ -53,7 +53,7 @@ $app->get('/', fn() => print '<div id="root"><div>'));
 
 
 ```javascript
-app.get('/', () => '<script>document.getElementById("root").innerHTML = 'Hello Mom!'</script>')
+app.get('/', (req, res) => res.send('Hello Mom!'));
 ```
 
 <blockquote>
