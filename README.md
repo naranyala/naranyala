@@ -17,25 +17,20 @@
 <br>
 
 <br>
-
-<code>
-    # Find me on here:
-    <a target="_blank" href="http://www.twitter.com/gema_naranyala">Twitter</a> | 
-    <a target="_blank" href="https://dev.to/fudzermifthakul">DEV</a>
-</code>
+<code># Find me on here:</code>
+<code><a target="_blank" href="http://www.twitter.com/gema_naranyala">Twitter</a></code>
+<code><a target="_blank" href="https://dev.to/fudzermifthakul">DEV</a></code>
+<code><a target="_blank" href="https://www.google.com">...</a></code>
 <br>
-<code>
-    # Some playground
-    <a target="_blank" href="https://codepen.io/naranyala">Codepen</a> | 
-    <a target="_blank" href="https://jsfiddle.net/user/naranyala">JSFiddle</a>
-</code>
+<code># Some playground:</code>
+<code><a target="_blank" href="https://codepen.io/naranyala">Codepen</a></code>
+<code><a target="_blank" href="https://jsfiddle.net/user/naranyala">JSFiddle</a></code>    
+<code><a target="_blank" href="https://www.google.com">...</a></code>
 <br>
-<code>
-    # Another
-    <a target="_blank" href="https://dribbble.com/naranyala">Dribble</a> | 
-    <a target="_blank" href="https://www.behance.net/fudzermifthak">Behance</a>
-</code>
-
+<code># Another:</code>
+<code><a target="_blank" href="https://dribbble.com/naranyala">Dribble</a></code>
+<code><a target="_blank" href="https://www.behance.net/fudzermifthak">Behance</a></code>
+<code><a target="_blank" href="https://www.google.com">...</a></code>
 <br>
 <br>
 
@@ -53,7 +48,7 @@ $app->get('/', fn($req, $res) => html($res, 'Hello Mom!'));
 
 
 ```javascript
-app.get('/', (req, res) => res.send('Hello Again Mom!'));
+app.get('/', (req, res) => res.send('Hello again Mom!'));
 ```
 
 <blockquote>
@@ -70,7 +65,8 @@ app.get('/', (req, res) => res.send('Hello Again Mom!'));
 <div align="center">  
 <details>
 <summary>My GitHub Stats</summary>
-
+<br>
+    
 [![Naranyala's GitHub stats](https://github-readme-stats.vercel.app/api?username=naranyala&layout=compact&show_icons=true&hide_border=false&theme=github_light)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
