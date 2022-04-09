@@ -44,12 +44,12 @@
 <hr>
 
 ```php
-$app->get('/', fn($req, $res) => html($res, 'Hello Mom!'));
+$app->get('/', fn($req, $res): Response => json($res, ['msg' => 'Hello Mom!']));
 ```
 
 
 ```javascript
-app.get('/', (req, res) => res.send('Hello again Mom!'));
+app.get('/', (req, res) => res.json({ msg : 'Hello Mom!' }));
 ```
 
 <blockquote>
