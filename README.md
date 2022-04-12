@@ -41,8 +41,7 @@
 - [ ] :computer: write-better-code skills
 - [ ] :globe_with_meridians: another-world skills
 
-<hr>
-
+<!--
 ```php
 $app->get('/', fn($req, $res): Response => json($res, ['msg' => 'Hello Mom!']));
 ```
@@ -51,9 +50,22 @@ $app->get('/', fn($req, $res): Response => json($res, ['msg' => 'Hello Mom!']));
 ```javascript
 app.get('/', (req, res) => res.json({ msg : 'Hello Mom!' }));
 ```
+-->
 
 <blockquote>
 </blockquote>
+<hr>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/Vite-000000?logo=vite&logoColor=white&style=for-the-badge" alt="Vite">
+    <img src="https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
+    <img src="https://img.shields.io/badge/Babel-000000?logo=babel&logoColor=white&style=for-the-badge" alt="Babel">
+    <img src="https://img.shields.io/badge/PostCSS-000000?logo=postcss&logoColor=white&style=for-the-badge" alt="PostCSS">
+    <img src="https://img.shields.io/badge/Ionic-000000?logo=ionic&logoColor=white&style=for-the-badge" alt="Ionic">
+    <img src="https://img.shields.io/badge/Electron-000000?logo=electron&logoColor=white&style=for-the-badge" alt="Electron">
+    <img src="https://img.shields.io/badge/ThreeJS-000000?logo=threejs&logoColor=white&style=for-the-badge" alt="ThreeJS">
+</div>
+
 <hr>
 
 <div align="center">
@@ -74,6 +86,8 @@ app.get('/', (req, res) => res.json({ msg : 'Hello Mom!' }));
 </div>
 
 <hr>
+
+<!--
 <div align="center">
     
 |  X  |  Y  |  Z  |
@@ -81,3 +95,4 @@ app.get('/', (req, res) => res.json({ msg : 'Hello Mom!' }));
 |  01011000  |  01011001  |  01011010  |
     
 </div>
+-->
