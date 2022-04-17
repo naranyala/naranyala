@@ -64,6 +64,7 @@ app.get('/', (req, res) => res.json({ msg : 'Hello Mom!' }));
     <img src="https://img.shields.io/badge/Ionic-000000?logo=ionic&logoColor=white&style=for-the-badge" alt="Ionic">
     <img src="https://img.shields.io/badge/Electron-000000?logo=electron&logoColor=white&style=for-the-badge" alt="Electron">
     <img src="https://img.shields.io/badge/ThreeJS-000000?logo=threejs&logoColor=white&style=for-the-badge" alt="ThreeJS">
+    <img src="https://img.shields.io/badge/Capacitor-000000?logo=capacitor&logoColor=white&style=for-the-badge" alt="CapacitorJS">
 </div>
 
 <hr>
@@ -86,6 +87,15 @@ app.get('/', (req, res) => res.json({ msg : 'Hello Mom!' }));
 </div>
 
 <hr>
+
+<div align="center">
+    <a href="http://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="http://stackoverflow.com" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+    <a href="http://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
+
+
 
 <!--
 <div align="center">
