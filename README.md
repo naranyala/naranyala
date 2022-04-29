@@ -18,23 +18,26 @@
 <br>
 
 <br>
-<code># Find me on here:</code>
-<code><a target="_blank" href="http://www.twitter.com/gema_naranyala">Twitter</a></code>
-<code><a target="_blank" href="https://dev.to/fudzermifthakul">DEV</a></code>
-<code><a target="_blank" href="https://www.google.com">...</a></code>
-<br>
-<code># Some playground:</code>
-<code><a target="_blank" href="https://codepen.io/naranyala">Codepen</a></code>
-<code><a target="_blank" href="https://jsfiddle.net/user/naranyala">JSFiddle</a></code>    
-<code><a target="_blank" href="https://www.google.com">...</a></code>
-<br>
-<code># Another:</code>
-<code><a target="_blank" href="https://dribbble.com/naranyala">Dribble</a></code>
-<code><a target="_blank" href="https://www.behance.net/fudzermifthak">Behance</a></code>
-<code><a target="_blank" href="https://www.google.com">...</a></code>
-<br>
-<br>
 
+<code>
+    # Code:
+    <a target="_blank" href="http://www.twitter.com/gema_naranyala">Twitter</a> | 
+    <a target="_blank" href="https://dev.to/fudzermifthakul">DEV</a> | 
+    <a target="_blank" href="https://medium.com/@fudzer.m.huda">Medium</a> | 
+    <a target="_blank" href="https://github.com/naranyala?tab=repositories&q=&type=public">GithubRepo</a> | 
+    <a target="_blank" href="https://stackoverflow.com/users/8528576/fudzer-m-huda">StackOverflow</a>
+</code>
+<br>
+<code>
+# Interfaces:
+<a target="_blank" href="https://dribbble.com/naranyala">Dribble</a> | 
+<a target="_blank" href="https://www.behance.net/fudzermifthak">Behance</a> | 
+<a target="_blank" href="https://codepen.io/naranyala">Codepen</a> | 
+<a target="_blank" href="https://jsfiddle.net/user/naranyala">JSFiddle</a>
+</code>
+
+<br>
+<br>
 <b>In Progress</b>
 
 - [x] :books: learning-and-reading skills
