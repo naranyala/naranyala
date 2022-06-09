@@ -66,8 +66,9 @@ app.get('/', (req, res) => res.json({ msg : 'Hello Mom!' }));
     <img src="https://img.shields.io/badge/PostCSS-000000?logo=postcss&logoColor=white&style=for-the-badge" alt="PostCSS">
     <img src="https://img.shields.io/badge/Ionic-000000?logo=ionic&logoColor=white&style=for-the-badge" alt="Ionic">
     <img src="https://img.shields.io/badge/Electron-000000?logo=electron&logoColor=white&style=for-the-badge" alt="Electron">
-    <img src="https://img.shields.io/badge/ThreeJS-000000?logo=threejs&logoColor=white&style=for-the-badge" alt="ThreeJS">
+    <img src="https://img.shields.io/badge/ThreeJS-000000?logo=three&logoColor=white&style=for-the-badge" alt="ThreeJS">
     <img src="https://img.shields.io/badge/Capacitor-000000?logo=capacitor&logoColor=white&style=for-the-badge" alt="CapacitorJS">
+    <img src="https://img.shields.io/badge/Leaflet-000000?logo=leaflet&logoColor=white&style=for-the-badge" alt="LeafletJS">
 </div>
 
 <hr>
