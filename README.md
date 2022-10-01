@@ -43,8 +43,11 @@
 <br>
 
 - [awesome-shell](https://github.com/alebcay/awesome-shell)
+- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash)
-- [awesome-cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets)
+- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
+- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+- [awesome-linux-software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
 <div align="left">
     <img src="https://img.shields.io/badge/Vite-000000?logo=vite&logoColor=white&style=for-the-badge" alt="Vite">
