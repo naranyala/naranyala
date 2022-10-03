@@ -46,6 +46,7 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 - [awesome-bash](https://github.com/awesome-lists/awesome-bash)
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible)
+- [modern-unix](https://github.com/ibraheemdev/modern-unix)
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 - [awesome-linux-software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
