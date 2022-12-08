@@ -50,18 +50,29 @@
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 - [awesome-linux-software](https://github.com/luong-komorebi/Awesome-Linux-Software)
 
+    
+## Today Learning
 <div align="left">
+    <img src="https://img.shields.io/badge/UIKit.css-000000?logo=uikitcss&logoColor=white&style=for-the-badge" alt="UIKit.css">
+    <img src="https://img.shields.io/badge/Astro-000000?logo=astro&logoColor=white&style=for-the-badge" alt="Astro">
     <img src="https://img.shields.io/badge/Vite-000000?logo=vite&logoColor=white&style=for-the-badge" alt="Vite">
-    <img src="https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
-    <img src="https://img.shields.io/badge/Babel-000000?logo=babel&logoColor=white&style=for-the-badge" alt="Babel">
     <img src="https://img.shields.io/badge/PostCSS-000000?logo=postcss&logoColor=white&style=for-the-badge" alt="PostCSS">
-    <img src="https://img.shields.io/badge/Ionic-000000?logo=ionic&logoColor=white&style=for-the-badge" alt="Ionic">
+    <img src="https://img.shields.io/badge/Svelte-000000?logo=svelte&logoColor=white&style=for-the-badge" alt="Svelte">
     <img src="https://img.shields.io/badge/Electron-000000?logo=electron&logoColor=white&style=for-the-badge" alt="Electron">
-    <img src="https://img.shields.io/badge/ThreeJS-000000?logo=three&logoColor=white&style=for-the-badge" alt="ThreeJS">
-    <img src="https://img.shields.io/badge/Capacitor-000000?logo=capacitor&logoColor=white&style=for-the-badge" alt="CapacitorJS">
-    <img src="https://img.shields.io/badge/Leaflet-000000?logo=leaflet&logoColor=white&style=for-the-badge" alt="LeafletJS">
-    <img src="https://img.shields.io/badge/SlimPHP-000000?logo=slimphp&logoColor=white&style=for-the-badge" alt="SlimPHP">
-    <img src="https://img.shields.io/badge/UIKitCSS-000000?logo=uikitcss&logoColor=white&style=for-the-badge" alt="UIKitCSS">
+    <img src="https://img.shields.io/badge/Chart.js-000000?logo=chart.js&logoColor=white&style=for-the-badge" alt="ChartJS">
+    <img src="https://img.shields.io/badge/ApexCharts-000000?logo=apexcharts&logoColor=white&style=for-the-badge" alt="ApexCharts">
+</div>
+    
+## Future Interest
+<div align="left">
+    <img src="https://img.shields.io/badge/Tailwind.css-000000?logo=tailwind.css&logoColor=white&style=for-the-badge" alt="Tailwind.css">
+    <img src="https://img.shields.io/badge/TypeScript-000000?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
+    <img src="https://img.shields.io/badge/React-000000?logo=react&logoColor=white&style=for-the-badge" alt="React">
+    <img src="https://img.shields.io/badge/D3.js-000000?logo=d3.js&logoColor=white&style=for-the-badge" alt="D3.js">
+    <img src="https://img.shields.io/badge/ThreeJS-000000?logo=three.js&logoColor=white&style=for-the-badge" alt="ThreeJS">
+    <img src="https://img.shields.io/badge/Tauri-000000?logo=tauri&logoColor=white&style=for-the-badge" alt="Tauri">
+    <img src="https://img.shields.io/badge/SolidJS-000000?logo=solid.js&logoColor=white&style=for-the-badge" alt="SolidJS">
+    <img src="https://img.shields.io/badge/Qwik-000000?logo=qwik&logoColor=white&style=for-the-badge" alt="Qwik">
 </div>
 
 </div>
