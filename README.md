@@ -5,13 +5,26 @@
 
 
 <br>
+
 <div align="center">
     <b>Hi &#128075;</b>
     <br>
     <i>I'm a student of life,<br>learning gives me more dopamine.</i>
-    <br>
 </div>
-<br>
+
+<hr>
+
+<div>
+    <b>Connecting the dot</b>
+    <div>
+📚 Workflow & Tools <br>
+📚 Awesome & LeetCode <br>
+📚 Algo & DS <br>
+📚 Clean Code & Style Guide <br>
+📚 Design Patterns & Use Cases <br>
+📚 Roadmap & Standards <br>
+    </div>
+</div>
 
 <hr>
 
