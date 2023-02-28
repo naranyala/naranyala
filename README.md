@@ -23,7 +23,7 @@
 📚 Clean Code & Style Guide <br>
 
 📚 Design Patterns & Case Study <br>
-📚 (DDD / EDD) & TDD <br>
+📚 Domain Driven & Test Driven <br>
        📚 Roadmap & Standards <br>
     </div>
 </div>
