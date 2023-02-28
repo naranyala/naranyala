@@ -18,10 +18,10 @@
     <b>Connecting the dot</b>
     <div>
 📚 Workflow & Tools <br>
-📚 Awesome & LeetCode <br>
-📚 Algo & DS <br>
+📚 Awesome Repo & LeetCode <br>
+📚 Algorithm & Data Structure <br>
 📚 Clean Code & Style Guide <br>
-📚 Design Patterns & Use Cases <br>
+📚 Design Patterns & Case Study <br>
 📚 Roadmap & Standards <br>
     </div>
 </div>
