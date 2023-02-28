@@ -21,6 +21,7 @@
 📚 Awesome Repo & LeetCode <br>
 📚 Algorithm & Data Structure <br>
 📚 Clean Code & Style Guide <br>
+📚 (DDD / EDD) & TDD
 📚 Design Patterns & Case Study <br>
 📚 Roadmap & Standards <br>
     </div>
