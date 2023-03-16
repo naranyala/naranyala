@@ -21,9 +21,9 @@
 📚 Awesome Repo & LeetCode <br>
 📚 Algorithm & Data Structure <br>
 📚 Clean Code & Style Guide <br>
-
+📚 Test Driven & Functional Programming <br>
 📚 Design Patterns & Case Study <br>
-📚 Domain Driven & Test Driven <br>
+📚 DDD NodeJS & DDD ReactJS <br>
        📚 Roadmap & Standards <br>
     </div>
 </div>
