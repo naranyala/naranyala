@@ -19,6 +19,7 @@
     <div>
 📚 Workflow & Tools <br>
 📚 Awesome Repo & LeetCode <br>
+📚 Best Practices & Architecture <br>
 📚 Algorithm & Data Structure <br>
 📚 Clean Code & Style Guide <br>
 📚 Test Driven & Functional Programming <br>
