@@ -10,13 +10,18 @@
     <b>Hi &#128075;</b>
     <br>
     <i>I'm a student of life,<br>learning gives me more dopamine.</i>
+    <hr/>
+    <p>breakdown, prioritize, organize, single thread || brainstorm, connect the dot, abstract, multi thread</p>
 </div>
 
 <hr>
 
-<div>
-    <b>Connecting the dot</b>
-    <div>
+<div align="left">  
+<details>
+<summary>INTEREST</summary>
+<br>
+
+  
 📚 Workflow & Tools <br>
 📚 Awesome Repo & LeetCode <br>
 📚 Best Practices & Architecture <br>
@@ -26,8 +31,10 @@
 📚 Design Patterns & Case Study <br>
 📚 DDD NodeJS & DDD ReactJS <br>
        📚 Roadmap & Standards <br>
-    </div>
+
+</details>
 </div>
+
 
 <hr>
 
