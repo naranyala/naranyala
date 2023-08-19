@@ -12,6 +12,10 @@
     <i>I'm a student of life,<br>learning gives me more dopamine.</i>
     <hr/>
     <p>breakdown, prioritize, organize, single thread || brainstorm, connect the dot, abstract, multi thread</p>
+    <hr/>
+    <p>
+        main interest: awesome-wm (lua) + neovim (lua) || rofi launcher + screenkey || zsh (starship) + tmux + atuin
+    </p>
 </div>
 
 <hr>
