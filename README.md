@@ -14,12 +14,6 @@
 </div>
 
 
-<div style="text-align:center;margin-top:10px;margin-bottom:10px;" align="center">
-    <img src="https://stackoverflow-card.vercel.app/?userID=8528576" style="margin-inline: auto;"/>
-    <br/>
-  <img src="https://ghchart.rshah.org/naranyala"/>
-</div>
-
 <div align="center">
     <hr/>
     <p>breakdown, prioritize, organize, single thread || brainstorm, connect the dot, abstract, multi thread</p>
@@ -119,18 +113,20 @@
 </div>
 
 
-<div align="left">  
-<details>
-<summary>Status</summary>
-<br>
+<div style="text-align:center;margin-top:10px;margin-bottom:10px;" align="center">
+  
 
-[![Naranyala's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=naranyala&layout=compact&show_icons=true&hide_border=false&theme=github_light)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naranyala&layout=compact&show_icons=true&hide_border=false&theme=github_light"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=naranyala&layout=compact&show_icons=true&hide_border=false&theme=github_light"/>
+<br/>
+<img src="https://ghchart.rshah.org/naranyala"/>
+    <br/>
 
-    
-[![Naranyala's GitHub stats](https://github-readme-stats.vercel.app/api?username=naranyala&layout=compact&show_icons=true&hide_border=false&theme=github_light)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://stackoverflow-card.vercel.app/?userID=8528576" style="margin-inline: auto;"/>
 
-</details>
 </div>
+
 
 <hr>
 
