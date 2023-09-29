@@ -4,12 +4,23 @@
 </div>
 
 
+
 <br>
 
 <div align="center">
     <b>Hi &#128075;</b>
     <br>
     <i>I'm a student of life,<br>learning gives me more dopamine.</i>
+</div>
+
+
+<div style="text-align:center;margin-top:10px;margin-bottom:10px;" align="center">
+    <img src="https://stackoverflow-card.vercel.app/?userID=8528576" style="margin-inline: auto;"/>
+    <br/>
+  <img src="https://ghchart.rshah.org/naranyala"/>
+</div>
+
+<div align="center">
     <hr/>
     <p>breakdown, prioritize, organize, single thread || brainstorm, connect the dot, abstract, multi thread</p>
     <hr/>
@@ -17,6 +28,9 @@
         main interest: awesome-wm (lua) + neovim (lua) || rofi launcher + screenkey || zsh (starship) + tmux + atuin
     </p>
 </div>
+
+
+
 
 <hr>
 
