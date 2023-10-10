@@ -18,7 +18,7 @@
 
 ```mermaid
 flowchart TD
-    A[code] --> B{it's work?}
+    A[just write code] --> B{it's works?}
     B --> |no| D[rewrite]
     D --> B
     B ---->|yes| E[ship-it]
