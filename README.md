@@ -15,6 +15,18 @@
 
 
 <div align="center">
+
+```mermaid
+flowchart TD
+    A[code] --> B{it's work?}
+    B --> |no| D[rewrite]
+    D --> B
+    B ---->|yes| E[ship-it]
+```
+    
+</div>
+
+<div align="center">
     <hr/>
     <p>breakdown, prioritize, organize, single thread || brainstorm, connect the dot, abstract, multi thread</p>
     <hr/>
