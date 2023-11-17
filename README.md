@@ -139,6 +139,9 @@ flowchart TD
 
 </div>
 
+<br/>
+
+![Alt](https://repobeats.axiom.co/api/embed/2b11dbc3c8258450c482a3fb1cc32132e0b392fa.svg "Repobeats analytics image")
 
 <hr>
 
