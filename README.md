@@ -3,27 +3,18 @@
     <img src="https://avatars.githubusercontent.com/u/25216912?s=400&u=7c418155a7e26c2b9f9ce89e3dd5b3b95594f1a3&v=4" width="100" height="100"/>
 </div>
 
-
-
-<br>
-
 <div align="center">
     <b>Hi &#128075;</b>
     <br>
     <i>I'm a student of life,<br>learning gives me more dopamine.</i>
 </div>
 
+<hr/>
 
 <div align="center">
-
-```mermaid
-flowchart TD
-    A[just write code] --> B{it's works?}
-    B --> |no| D[rewrite]
-    D --> B
-    B ---->|yes| E[ship-it]
-```
     
+[![GitHub Streak](https://streak-stats.demolab.com/?user=naranyala)](https://git.io/streak-stats)
+
 </div>
 
 <div align="center">
@@ -149,6 +140,18 @@ flowchart TD
     <a href="http://twitter.com" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="http://stackoverflow.com" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
     <a href="http://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
+<div align="center">
+
+```mermaid
+flowchart TD
+    A[just write code] --> B{it's works?}
+    B --> |no| D[rewrite]
+    D --> B
+    B ---->|yes| E[ship-it]
+```
+    
 </div>
 
 
