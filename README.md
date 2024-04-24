@@ -18,6 +18,18 @@
 </div>
 
 <div align="center">
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=25216912" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=25216912&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @naranyala" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=25216912&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+</div>
+
+<div align="center">
     <hr/>
     <p>breakdown, prioritize, organize, single thread || brainstorm, connect the dot, abstract, multi thread</p>
     <hr/>
