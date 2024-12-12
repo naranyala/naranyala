@@ -14,7 +14,8 @@ i'm here to code, gamedev is the endgoal to unleash optimal creativity and game 
 - pixi-js and p5-js + vite-js (with plugins)
 - rust dioxus and tailwind-css (with plugins)
 
-## connect with me
+## my radar 
 
-- [x/twitter](https://x.com/gema_naranyala)
-- [youtube](https://youtube.com/@naranyala_dev)
+- [c gh-trending](https://github.com/trending/c?since=monthly&spoken_language_code=)
+- [rust gh-trending](https://github.com/trending/rust?since=monthly&spoken_language_code=)
+- [dart gh-trending](https://github.com/trending/dart?since=monthly&spoken_language_code=)
