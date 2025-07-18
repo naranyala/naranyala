@@ -1,6 +1,8 @@
 # welcome
 
-still exploring robust yet rigorous-possible custom types
+- still exploring robust yet rigorous-possible custom types,
+- do errors logs more detailed, and
+- craft custom ergonomic personal std
 
 ---
 
