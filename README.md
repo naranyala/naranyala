@@ -12,3 +12,20 @@
 
 ---
 
+# my guidance
+
+https://github.com/dlang/phobos
+
+https://dlang.org/phobos/
+
+https://github.com/nim-lang/Nim/tree/devel/lib
+
+https://nim-lang.org/docs/lib.html
+
+https://github.com/vlang/v/tree/master/vlib
+
+https://modules.vlang.io/
+
+---
+
+
