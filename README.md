@@ -38,3 +38,9 @@ https://www.reddit.com/r/AppIdeas/
 
 https://www.reddit.com/r/softwaredevelopment/
 
+https://www.reddit.com/r/SoftwareEngineering/
+
+https://www.reddit.com/r/freesoftware/
+
+---
+
