@@ -32,4 +32,9 @@ https://modules.vlang.io/
 
 ---
 
+## inspiration
+
+https://www.reddit.com/r/AppIdeas/
+
+https://www.reddit.com/r/softwaredevelopment/
 
