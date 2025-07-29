@@ -4,6 +4,10 @@
 - do errors logs more detailed, and
 - craft custom ergonomic personal std
 
+## motton/principles/ethos
+
+> _imperative style but use global context as store_
+
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naranyala&show_icons=true&theme=radical)
