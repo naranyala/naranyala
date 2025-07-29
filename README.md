@@ -6,7 +6,7 @@
 
 ## motton/principles/ethos
 
-> _imperative style but use global context as store_
+> _imperative style code and use global context as store_
 
 ---
 
