@@ -1,14 +1,4 @@
-## welcome
 
-- still exploring robust yet rigorous-possible custom types,
-- do errors logs more detailed, and
-- craft custom ergonomic personal std
-
-## motto/principles/ethos
-
-> _imperative style code and use global context as store_
-
-## status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naranyala&show_icons=true&theme=radical)
 
@@ -42,5 +32,4 @@ https://www.reddit.com/r/opensource/
 
 https://www.reddit.com/r/software/
 
----
 
