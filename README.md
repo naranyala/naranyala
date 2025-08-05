@@ -4,21 +4,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naranyala&layout=compact&theme=radical)
 
-## inspirations
+## research sources
 
-https://github.com/dlang/phobos
+http://wikipedia.org/w/index.php?search=wayland
 
-https://dlang.org/phobos/
+http://hn.algolia.com/?q=wayland
 
-https://github.com/nim-lang/Nim/tree/devel/lib
+http://reddit.com/search/?q=wayland
 
-https://nim-lang.org/docs/lib.html
+http://github.com/search?q=wayland&type=repositories
 
-https://github.com/vlang/v/tree/master/vlib
-
-https://modules.vlang.io/
-
-## forums
+## some inspirations
 
 https://www.reddit.com/r/AppIdeas/
 
