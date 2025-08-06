@@ -1,4 +1,11 @@
-## with or without systemd // with or without wayland
+
+## experience my gists
+
+nixpkgs symlinks: https://gist.github.com/naranyala/2203f889a3cb89c5cfe4599788bea915
+
+nixpkgs dotdesktop: https://gist.github.com/naranyala/312271a325d3c4fbd5fe33e07045cf7c
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naranyala&show_icons=true&theme=radical)
 
