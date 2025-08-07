@@ -7,32 +7,20 @@ nixpkgs dotdesktop: https://gist.github.com/naranyala/312271a325d3c4fbd5fe33e070
 
 ---
 
+```lua
+vim.keymap.set("n", "<leader>td", function()
+  local datetime = os.date("%Y-%m-%d %H:%M:%S")
+  local todo = "TODO (" .. datetime .. ") "
+  vim.api.nvim_put({todo}, "c", true, true)
+end, { desc = "Insert TODO with timestamp" })
+```
+
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naranyala&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naranyala&layout=compact&theme=radical)
 
-## research sources
-
-http://wikipedia.org/w/index.php?search=wayland
-
-http://hn.algolia.com/?q=wayland
-
-http://reddit.com/search/?q=wayland
-
-http://github.com/search?q=wayland&type=repositories
-
-## some inspirations
-
-https://www.reddit.com/r/AppIdeas/
-
-https://www.reddit.com/r/softwaredevelopment/
-
-https://www.reddit.com/r/SoftwareEngineering/
-
-https://www.reddit.com/r/freesoftware/
-
-https://www.reddit.com/r/opensource/
-
-https://www.reddit.com/r/software/
+---
 
 
