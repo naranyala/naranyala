@@ -3,11 +3,15 @@
 
 - setup c-project faster (bootstrap.c)
   
-  https://gist.github.com/naranyala/596061ed629512eef85a7d2005ee448a)
+  https://gist.github.com/naranyala/596061ed629512eef85a7d2005ee448a
   
 - upgrade latest nob.h single-header (nobup.sh)
   
-  https://gist.github.com/naranyala/596061ed629512eef85a7d2005ee448a)
+  https://gist.github.com/naranyala/596061ed629512eef85a7d2005ee448a
+  
+- easy raylib starter (bootstrap_rayblib.c)
+
+  https://gist.github.com/naranyala/d8b618b2c523f7294a38ba96cca90686
 
 ---
 
