@@ -9,7 +9,7 @@
   
   https://gist.github.com/naranyala/596061ed629512eef85a7d2005ee448a
   
-- easy raylib starter (bootstrap_rayblib.c)
+- easy raylib starter (bootstrap_raylib.c)
 
   https://gist.github.com/naranyala/d8b618b2c523f7294a38ba96cca90686
 
