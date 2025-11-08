@@ -8,7 +8,7 @@
 - [upgrade latest nob.h single-header](https://gist.github.com/naranyala/596061ed629512eef85a7d2005ee448a)
 - [easy raylib starter](https://gist.github.com/naranyala/d8b618b2c523f7294a38ba96cca90686)
 - [to fix ntfs partition issue on linux](https://github.com/naranyala/modular-dotfiles/blob/main/.local/bin-bash/perform-lsblk-then-ntfsfix.sh)
-- [list every partition to mound](https://github.com/naranyala/modular-dotfiles/blob/main/.local/bin-bash/scan2mount-linux-drives.sh)
+- [list every partition to mount](https://github.com/naranyala/modular-dotfiles/blob/main/.local/bin-bash/scan2mount-linux-drives.sh)
 
 ---
 
