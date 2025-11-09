@@ -1,21 +1,8 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naranyala&layout=compact&theme=radical)
+# Hello
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naranyala&show_icons=true&theme=radical)
+Am naranyala, just a random Linux user who writes codes in C.
 
-## experience my scripts
-
-- [setup c-project faster](https://gist.github.com/naranyala/4fbeff8d330dd2fe1a2f68438390b091)
-- [upgrade latest nob.h single-header](https://gist.github.com/naranyala/596061ed629512eef85a7d2005ee448a)
-- [easy raylib starter](https://gist.github.com/naranyala/d8b618b2c523f7294a38ba96cca90686)
-- [to fix ntfs partition issue on linux](https://github.com/naranyala/modular-dotfiles/blob/main/.local/bin-bash/perform-lsblk-then-ntfsfix.sh)
-- [list every partition to mount](https://github.com/naranyala/modular-dotfiles/blob/main/.local/bin-bash/scan2mount-linux-drives.sh)
-
----
-
-https://github.com/search?q=language%3A%22Emacs+Lisp%22&type=repositories
-
-https://github.com/search?q=language%3ANix&type=repositories
-
-https://github.com/nix-community/awesome-nix
-
-https://github.com/emacs-tw/awesome-emacs
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naranyala&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=naranyala&show_icons=ture" />
+</p>
