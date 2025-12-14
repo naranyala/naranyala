@@ -2,6 +2,18 @@
 
 about me: exploring C/RUST programming on WINDOWS/LINUX
 
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naranyala&theme=github) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naranyala&theme=github) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naranyala&theme=github) 
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naranyala&theme=github) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naranyala&theme=github) 
+
+---
+
 ## fav-references
 
 [https://doc.rust-lang.org/book/](https://doc.rust-lang.org/book/)
