@@ -4,6 +4,8 @@ real life matters, so i vibe-coded rust code, only rust code; others like c/zig/
 
 ---
 
+<small>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naranyala&theme=github) 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naranyala&theme=github) 
@@ -11,6 +13,8 @@ real life matters, so i vibe-coded rust code, only rust code; others like c/zig/
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=naranyala&theme=github) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naranyala&theme=github) 
+
+</small>
 
 ---
 
