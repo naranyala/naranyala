@@ -30,4 +30,4 @@ real life matters, so i vibe-coded rust code, only rust code; others like c/zig/
 
 ---
 
-@gema_naranyala
+> admire simplicity down to the earth
