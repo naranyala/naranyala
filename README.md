@@ -1,11 +1,11 @@
 # Hello
 
-| category | exploration |
-|--|--|
-| scripts | [expose-winsysexe-gitbash.sh](https://gist.github.com/naranyala/3c634394ed3f9409c13ab2041bd8153a) |
-| | [expose-msys2-gnu-gitbash.sh](https://gist.github.com/naranyala/321b4802113fa247a8f333030e8e361c) |
-| others | coming-soon-1 |
-| | coming-soon-2 |
+| category | exploration | why |
+|--|--|--|
+| scripts | [expose-winsysexe-gitbash.sh](https://gist.github.com/naranyala/3c634394ed3f9409c13ab2041bd8153a) | expose binaries/exe |
+| | [expose-msys2-gnu-gitbash.sh](https://gist.github.com/naranyala/321b4802113fa247a8f333030e8e361c) | expose binaries/exe |
+| others | coming-soon-1 | 123 |
+| | coming-soon-2 | 123 |
 
 
 
