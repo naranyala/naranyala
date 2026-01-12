@@ -43,4 +43,18 @@ real life matters, so i vibe-coded rust code, only rust code; others like c/zig/
 
 > admire simplicity down to the earth
 >
-> prefer plugin-based structure and embrace global event-bus paradigm 
+> prefer plugin-based structure and embrace global event-bus paradigm
+
+---
+
+## my top ten projects
+
+soon
+
+## my top ten inspiration
+
+soon
+
+## my top ten role-models
+
+soon
