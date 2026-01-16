@@ -1,5 +1,19 @@
 # Hello
 
+[https://codeberg.org/explore/repos](https://codeberg.org/explore/repos)
+
+[https://codeberg.org/explore/repos](https://codeberg.org/explore/repos)
+
+[https://sr.ht/projects](https://sr.ht/projects)
+
+---
+
+<details>
+  <summary>more</summary>
+
+  
+
+
 | category | exploration | why |
 |--|--|--|
 | scripts | [expose-winsysexe-gitbash.sh](https://gist.github.com/naranyala/3c634394ed3f9409c13ab2041bd8153a) | expose binaries/exe |
@@ -10,6 +24,27 @@
 
 
 ---
+
+> admire simplicity down to the earth
+>
+> prefer plugin-based structure and embrace global event-bus paradigm
+
+---
+
+## my top ten projects
+
+soon
+
+## my top ten inspiration
+
+soon
+
+## my top ten role-models
+
+soon
+
+
+</details>
 
 <details>
   <summary>about me</summary>
@@ -39,22 +74,3 @@ real life matters, so i vibe-coded rust code, only rust code; others like c/zig/
   WIP
 </details>
 
----
-
-> admire simplicity down to the earth
->
-> prefer plugin-based structure and embrace global event-bus paradigm
-
----
-
-## my top ten projects
-
-soon
-
-## my top ten inspiration
-
-soon
-
-## my top ten role-models
-
-soon
