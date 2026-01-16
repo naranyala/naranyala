@@ -1,10 +1,10 @@
 # Hello
 
-[https://codeberg.org/explore/repos](https://codeberg.org/explore/repos)
+[https://github.com/search?q=audio&type=repositories](https://github.com/search?q=audio&type=repositories)
 
-[https://codeberg.org/explore/repos](https://codeberg.org/explore/repos)
+[https://codeberg.org/explore/repos?q=audio](https://codeberg.org/explore/repos?q=audio)
 
-[https://sr.ht/projects](https://sr.ht/projects)
+[https://sr.ht/projects?search=audio](https://sr.ht/projects?search=audio)
 
 ---
 
