@@ -8,6 +8,16 @@
 
 ---
 
+## fav
+
+| messagepack | cbor |
+|--|--|
+| [https://github.com/msgpack/msgpack-c](https://github.com/msgpack/msgpack-c) | [https://github.com/intel/tinycbor](https://github.com/intel/tinycbor) |
+| [https://github.com/msgpack/msgpack-javascript](https://github.com/msgpack/msgpack-javascript) | [https://github.com/hildjj/cbor2](https://github.com/hildjj/cbor2) |
+| [https://github.com/kriszyp/msgpackr](https://github.com/kriszyp/msgpackr) | [https://github.com/kriszyp/cbor-x](https://github.com/kriszyp/cbor-x) |
+
+---
+
 <details>
   <summary>more</summary>
 
