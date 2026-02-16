@@ -15,6 +15,8 @@
 
   [https://github.com/orgs/tsoding/repositories?q=sort%3Astars](https://github.com/orgs/tsoding/repositories?q=sort%3Astars)
 
+  [https://github.com/orgs/DioxusLabs/repositories?q=sort%3Astars](https://github.com/orgs/DioxusLabs/repositories?q=sort%3Astars)
+
   <br/>
 </details>
 
@@ -43,6 +45,25 @@
 
   [https://github.com/antoniandre?tab=repositories&q=&type=&language=&sort=stargazers](https://github.com/antoniandre?tab=repositories&q=&type=&language=&sort=stargazers)
 
+  [https://github.com/tpope?tab=repositories&q=&type=&language=&sort=stargazers](https://github.com/tpope?tab=repositories&q=&type=&language=&sort=stargazers)
+
+  [https://github.com/folke?tab=repositories&q=&type=&language=&sort=stargazers](https://github.com/folke?tab=repositories&q=&type=&language=&sort=stargazers)
+
+  [https://github.com/ThePrimeagen?tab=repositories&q=&type=&language=&sort=stargazers](https://github.com/ThePrimeagen?tab=repositories&q=&type=&language=&sort=stargazers)
+
+  <br/>
+</details>
+
+<details>
+  <summary>web-related orgs/repo</summary>
+  <br/>
+
+  [https://github.com/orgs/vuejs/repositories?q=sort%3Astars](https://github.com/orgs/vuejs/repositories?q=sort%3Astars)
+
+  [https://github.com/orgs/biomejs/repositories?q=sort%3Astars](https://github.com/orgs/biomejs/repositories?q=sort%3Astars)
+
+  [https://github.com/orgs/pmndrs/repositories?q=sort%3Astars](https://github.com/orgs/pmndrs/repositories?q=sort%3Astars)
+  
   <br/>
 </details>
 
