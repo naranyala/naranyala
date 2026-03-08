@@ -1,5 +1,6 @@
+<details>
+  <summary><h2>starters</h2></summary>
 
-## starters
 
 <!-- | []() | []() | -->
 
@@ -17,17 +18,14 @@
 | [starter-rust-webuireact-rsbuild](https://github.com/naranyala/starter-rust-webuireact-rsbuild) | [starter-rust-webuireact-rspack](https://github.com/naranyala/starter-rust-webuireact-rspack) |
 | [starter-rust-webuivue-rsbuild](https://github.com/naranyala/starter-rust-webuivue-rsbuild) | [starter-rust-webuivue-rspack](https://github.com/naranyala/starter-rust-webuivue-rspack) |
 
+</details>
 
 <!-- 
 | []() | []() |
 -->
 
-<br/>
-
-## fav orgs sorted by repo stars
-
 <details>
-  <summary>c/rust majority orgs/repo</summary>
+  <summary><h2>fav orgs sorted by repo stars</h2></summary>
   <br/>
 
   [https://github.com/orgs/tauri-apps/repositories?q=sort%3Astars](https://github.com/orgs/tauri-apps/repositories?q=sort%3Astars)
@@ -41,14 +39,7 @@
   [https://github.com/orgs/tsoding/repositories?q=sort%3Astars](https://github.com/orgs/tsoding/repositories?q=sort%3Astars)
 
   [https://github.com/orgs/DioxusLabs/repositories?q=sort%3Astars](https://github.com/orgs/DioxusLabs/repositories?q=sort%3Astars)
-
-  <br/>
-</details>
-
-<details>
-  <summary>bigtech orgs/repo</summary>
-  <br/>
-
+  
   [https://github.com/orgs/facebook/repositories?q=sort%3Astars](https://github.com/orgs/facebook/repositories?q=sort%3Astars)
 
   [https://github.com/orgs/google/repositories?q=sort%3Astars](https://github.com/orgs/google/repositories?q=sort%3Astars)
@@ -56,13 +47,6 @@
   [https://github.com/orgs/elastic/repositories?q=sort%3Astars](https://github.com/orgs/elastic/repositories?q=sort%3Astars)
   
   [https://github.com/orgs/alibaba/repositories?q=sort%3Astars](https://github.com/orgs/alibaba/repositories?q=sort%3Astars)
-
-  <br/>
-</details>
-
-<details>
-  <summary>personal orgs/repo</summary>
-  <br/>
 
   [https://github.com/steipete?tab=repositories&q=&type=&language=&sort=stargazers](https://github.com/steipete?tab=repositories&q=&type=&language=&sort=stargazers)
 
@@ -76,13 +60,6 @@
 
   [https://github.com/ThePrimeagen?tab=repositories&q=&type=&language=&sort=stargazers](https://github.com/ThePrimeagen?tab=repositories&q=&type=&language=&sort=stargazers)
 
-  <br/>
-</details>
-
-<details>
-  <summary>web-related orgs/repo</summary>
-  <br/>
-
   [https://github.com/orgs/vuejs/repositories?q=sort%3Astars](https://github.com/orgs/vuejs/repositories?q=sort%3Astars)
 
   [https://github.com/orgs/biomejs/repositories?q=sort%3Astars](https://github.com/orgs/biomejs/repositories?q=sort%3Astars)
@@ -92,5 +69,14 @@
   <br/>
 </details>
 
+<details>
+  <summary><h2>awesome of awesomeness</h2></summary>
+  <br/>
 
+  [https://github.com/sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron)
+
+  [https://github.com/tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
+
+  [https://github.com/valpackett/awesome-gtk](https://github.com/valpackett/awesome-gtk)
+</details>
 
