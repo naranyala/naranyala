@@ -78,5 +78,11 @@
   [https://github.com/tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri)
 
   [https://github.com/valpackett/awesome-gtk](https://github.com/valpackett/awesome-gtk)
+
+  [https://github.com/nodiscc/awesome-linuxaudio](https://github.com/nodiscc/awesome-linuxaudio)
+
+  [https://github.com/BillyDM/awesome-audio-dsp](https://github.com/BillyDM/awesome-audio-dsp)
+
+  [https://github.com/olilarkin/awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp)
 </details>
 
