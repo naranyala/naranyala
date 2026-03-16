@@ -1,22 +1,26 @@
+
+
+| modern angular (signals/etc) |
+|--|
+| [starter-web-angular-rspack](https://github.com/naranyala/starter-web-angular-rspack) |
+| [starter-electron-angular-rspack](https://github.com/naranyala/starter-electron-angular-rspack) |
+| [starter-rust-webuiangular-rspack](https://github.com/naranyala/starter-rust-webuiangular-rspack) |
+
+
 <details>
-  <summary><h2>starters</h2></summary>
+  <summary><h2>another starters</h2></summary>
 
 
 <!-- | []() | []() | -->
 
-| rsbuild-based | rspack-based |
-|--|--|
-| [starter-web-angular-rsbuild](https://github.com/naranyala/starter-web-angular-rsbuild) | [starter-web-angular-rspack](https://github.com/naranyala/starter-web-angular-rspack) |
-| [starter-web-react-rsbuild](https://github.com/naranyala/starter-web-react-rsbuild) | [starter-web-react-rspack](https://github.com/naranyala/starter-web-react-rspack) |
-| [starter-web-vue-rsbuild](https://github.com/naranyala/starter-web-vue-rsbuild) | [starter-web-vue-rspack](https://github.com/naranyala/starter-web-vue-rspack) |
-|  |  |
-| [starter-electron-angular-rsbuild](https://github.com/naranyala/starter-electron-angular-rsbuild) | [starter-electron-angular-rspack](https://github.com/naranyala/starter-electron-angular-rspack) |
-| [starter-electron-react-rsbuild](https://github.com/naranyala/starter-electron-react-rsbuild) | [starter-electron-react-rspack](https://github.com/naranyala/starter-electron-react-rspack) |
-| [starter-electron-vue-rsbuild](https://github.com/naranyala/starter-electron-vue-rsbuild) | [starter-electron-vue-rspack](https://github.com/naranyala/starter-electron-vue-rspack) |
-|  |  |
-| [starter-rust-webuiangular-rsbuild](https://github.com/naranyala/starter-rust-webuiangular-rsbuild) | [starter-rust-webuiangular-rspack](https://github.com/naranyala/starter-rust-webuiangular-rspack) |
-| [starter-rust-webuireact-rsbuild](https://github.com/naranyala/starter-rust-webuireact-rsbuild) | [starter-rust-webuireact-rspack](https://github.com/naranyala/starter-rust-webuireact-rspack) |
-| [starter-rust-webuivue-rsbuild](https://github.com/naranyala/starter-rust-webuivue-rsbuild) | [starter-rust-webuivue-rspack](https://github.com/naranyala/starter-rust-webuivue-rspack) |
+| react/vue |
+|--|
+| [starter-web-react-rspack](https://github.com/naranyala/starter-web-react-rspack) |
+| [starter-web-vue-rspack](https://github.com/naranyala/starter-web-vue-rspack) |
+| [starter-electron-react-rspack](https://github.com/naranyala/starter-electron-react-rspack) |
+| [starter-electron-vue-rspack](https://github.com/naranyala/starter-electron-vue-rspack) |
+| [starter-rust-webuireact-rspack](https://github.com/naranyala/starter-rust-webuireact-rspack) |
+| [starter-rust-webuivue-rspack](https://github.com/naranyala/starter-rust-webuivue-rspack) |
 
 </details>
 
