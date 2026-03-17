@@ -5,7 +5,11 @@
 | [starter-web-angular-rspack](https://github.com/naranyala/starter-web-angular-rspack) |
 | [starter-electron-angular-rspack](https://github.com/naranyala/starter-electron-angular-rspack) |
 | [starter-rust-webuiangular-rspack](https://github.com/naranyala/starter-rust-webuiangular-rspack) |
+| [starter-vlang-webui-angular-rspack](https://github.com/naranyala/starter-vlang-webui-angular-rspack) |
+| [starter-zig-webui-angular-rspack](https://github.com/naranyala/starter-zig-webui-angular-rspack) |
+| [starter-odin-webui-angular-rspack](https://github.com/naranyala/starter-odin-webui-angular-rspack) |
 
+<!-- | []() | -->
 
 <details>
   <summary><h2>another starters</h2></summary>
