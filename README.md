@@ -8,6 +8,8 @@
 | [starter-vlang-webui-angular-rspack](https://github.com/naranyala/starter-vlang-webui-angular-rspack) |
 | [starter-zig-webui-angular-rspack](https://github.com/naranyala/starter-zig-webui-angular-rspack) |
 | [starter-odin-webui-angular-rspack](https://github.com/naranyala/starter-odin-webui-angular-rspack) |
+| [starter-c3lang-webui-angular-rspack](https://github.com/naranyala/starter-c3lang-webui-angular-rspack) |
+| [starter-ccode-webui-angular-rspack](https://github.com/naranyala/starter-ccode-webui-angular-rspack) |
 
 <!-- | []() | -->
 
