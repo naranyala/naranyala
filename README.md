@@ -1,5 +1,22 @@
 
 
+<details open>
+  <summary><h2>how to start</h2></summary>
+
+  [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog)
+  
+  [semver/semver](https://github.com/semver/semver)
+  
+  [dictcp/awesome-git](https://github.com/dictcp/awesome-git)
+  
+  [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix)
+  
+</details>
+
+
+<details open>
+  <summary><h2>make desktop app</h2></summary>
+
 | modern angular (signals/etc) |
 |---|
 | [starter-web-angular-rspack](https://github.com/naranyala/starter-web-angular-rspack) |
@@ -13,6 +30,7 @@
 | [starter-odin-webui-angular-rspack](https://github.com/naranyala/starter-odin-webui-angular-rspack) |
 | [starter-c3lang-webui-angular-rspack](https://github.com/naranyala/starter-c3lang-webui-angular-rspack) |
 
+</details>
 
 <!-- | []() | -->
 
