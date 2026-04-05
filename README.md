@@ -1,4 +1,7 @@
 
+> facilitator/enabler
+> 
+> sudo nixos-rebuild boot --log-format bar-with-logs --upgrade --verbose 
 
 <details open>
   <summary><h2>how to start</h2></summary>
@@ -14,7 +17,7 @@
 </details>
 
 
-<details open>
+<details>
   <summary><h2>make desktop app</h2></summary>
 
 | modern angular (signals/etc) |
