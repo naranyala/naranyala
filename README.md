@@ -119,3 +119,7 @@
   [https://github.com/olilarkin/awesome-musicdsp](https://github.com/olilarkin/awesome-musicdsp)
 </details>
 
+<a href="https://github.com/KoljaB">
+    <img src="https://github-stats-alpha.vercel.app/api?username=naranyala&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
