@@ -1,7 +1,9 @@
 
 > facilitator/enabler
 > 
-> sudo nixos-rebuild boot --log-format bar-with-logs --upgrade --verbose 
+> sudo nixos-rebuild boot --log-format bar-with-logs --upgrade --verbose
+>
+> core and shared, others will be as plugin/extension/addon that easy to replace/versioning/upgrade
 
 <details open>
   <summary><h2>how to start</h2></summary>
