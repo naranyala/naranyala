@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Kovid Goyal's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 59000, Total Commits  : 733662, Total PRs: 56, Total Issues: 160, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 59028, Total Commits  : 733670, Total PRs: 56, Total Issues: 160, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 50.20990808358095;
+        stroke-dashoffset: 50.209874463329704;
       }
     }
   
