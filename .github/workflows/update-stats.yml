@@ -26,42 +26,53 @@ jobs:
           chmod +x scripts/update_stats.sh
           ./scripts/update_stats.sh
 
-      - name: Generate Repo List via GitHub Script
-        uses: actions/github-script@v7
-        with:
-          script: |
-            const username = 'naranyala';
-            const fs = require('fs');
-            const readmePath = 'README.md';
-            
-            try {
-              const { data: repos } = await github.rest.repos.listForUser({
-                owner: username,
-                per_page: 100,
-                sort: 'updated'
-              });
+      - name: Generate Repo List via Bash
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          USERNAME="naranyala"
+          echo "Fetching repos for $USERNAME..."
+          
+          # 1. Fetch repo names and format as a Markdown list into a temp file
+          # Using curl with token to avoid rate limits
+          curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/$USERNAME/repos?per_page=100&sort=updated" | \
+          jq -r '.[].name' | sed 's/^/- /' > repos_list.txt
 
-              const repoList = repos.map(repo => `- [${repo.name}](https://github.com/${username}/${repo.name})`).join('\n');
-              
-              let content = fs.readFileSync(readmePath, 'utf8');
-              const startTag = '<!-- REPOS_LIST_START -->';
-              const endTag = '<!-- REPOS_LIST_END -->';
-              
-              // Use a regex to find the content between the tags and replace it
-              const regex = new RegExp(`${startTag}[\\s\\S]*?${endTag}`, 'g');
-              const newBlock = `${startTag}\n${repoList}\n${endTag}`;
-              
-              if (regex.test(content)) {
-                const updatedContent = content.replace(regex, newBlock);
-                fs.writeFileSync(readmePath, updatedContent);
-                console.log('Successfully updated README.md with repo list.');
-              } else {
-                console.error('Could not find the REPOS_LIST tags in README.md');
-              }
-            } catch (error) {
-              console.error('Error generating repo list:', error);
-              process.exit(1);
-            }
+          if [ ! -s repos_list.txt ]; then
+            echo "Error: Failed to fetch or parse repositories (repos_list.txt is empty)."
+            exit 1
+          fi
+
+          echo "Updating README.md..."
+          
+          # 2. Use Python to replace the content between the tags
+          python3 -c "
+          import re
+          import os
+
+          readme_path = 'README.md'
+          list_path = 'repos_list.txt'
+
+          with open(list_path, 'r') as f:
+              new_list_content = f.read().strip()
+
+          # Prepare the full block to be inserted
+          new_block = f'<!-- REPOS_LIST_START -->\n{new_list_content}\n<!-- REPOS_LIST_END -->'
+
+          with open(readme_path, 'r') as f:
+              content = f.read()
+
+          pattern = r'<!-- REPOS_LIST_START -->.*?<!-- REPOS_LIST_END -->'
+          
+          if re.search(pattern, content, re.DOTALL):
+              updated_content = re.sub(pattern, new_block, content, flags=re.DOTALL)
+              with open(readme_path, 'w') as f:
+                  f.write(updated_content)
+              print('Successfully updated README.md')
+          else:
+              print('Error: Could not find the REPOS_LIST tags in README.md')
+              sys.exit(1)
+          "
 
       - name: Commit and push changes
         run: |
