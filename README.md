@@ -6,4 +6,8 @@
 
 ![GitHub Streak](./profile/streak-dark.svg#gh-dark-mode-only)![GitHub Streak](./profile/streak-light.svg#gh-light-mode-only)
 
+## 🛠 My Repositories
+<!-- REPOS_LIST_START -->
+<!-- REPOS_LIST_END -->
+
 The best way to contact me is to use my email address.

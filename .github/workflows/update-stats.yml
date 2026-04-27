@@ -21,14 +21,51 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Run update script
+      - name: Run SVG update script
         run: |
           chmod +x scripts/update_stats.sh
           ./scripts/update_stats.sh
+
+      - name: Generate Repo List via GitHub Script
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const username = 'naranyala';
+            const fs = require('fs');
+            const readmePath = 'README.md';
+            
+            try {
+              const { data: repos } = await github.rest.repos.listForUser({
+                owner: username,
+                per_page: 100,
+                sort: 'updated'
+              });
+
+              const repoList = repos.map(repo => `- [${repo.name}](https://github.com/${username}/${repo.name})`).join('\n');
+              
+              let content = fs.readFileSync(readmePath, 'utf8');
+              const startTag = '<!-- REPOS_LIST_START -->';
+              const endTag = '<!-- REPOS_LIST_END -->';
+              
+              // Use a regex to find the content between the tags and replace it
+              const regex = new RegExp(`${startTag}[\\s\\S]*?${endTag}`, 'g');
+              const newBlock = `${startTag}\n${repoList}\n${endTag}`;
+              
+              if (regex.test(content)) {
+                const updatedContent = content.replace(regex, newBlock);
+                fs.writeFileSync(readmePath, updatedContent);
+                console.log('Successfully updated README.md with repo list.');
+              } else {
+                console.error('Could not find the REPOS_LIST tags in README.md');
+              }
+            } catch (error) {
+              console.error('Error generating repo list:', error);
+              process.exit(1);
+            }
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add profile/*.svg
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update profile stats SVGs" && git push)
+          git add profile/*.svg README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update profile stats and repo list" && git push)
