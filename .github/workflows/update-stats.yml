@@ -1,0 +1,30 @@
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    # Run every day at midnight UTC
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run update script
+        run: |
+          chmod +x scripts/update_stats.sh
+          ./scripts/update_stats.sh
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile/*.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update profile stats SVGs" && git push)
