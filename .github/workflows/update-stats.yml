@@ -35,7 +35,7 @@ jobs:
           
           # 1. Fetch repo links, sort alphabetically, and save to a temp file
           curl -s -H "Authorization: token $GITHUB_TOKEN" "https://api.github.com/users/$USERNAME/repos?per_page=100&sort=updated" | \
-          jq -r '.[] | "[\(.name)](https://github.com/\($USERNAME)/\(.name))"' | sort > repos_list.txt
+          jq -r --arg user "$USERNAME" '.[] | "[\(.name)](https://github.com/\($user)/\(.name))"' | sort > repos_list.txt
 
           if [ ! -s repos_list.txt ]; then
             echo "Error: Failed to fetch or parse repositories (repos_list.txt is empty)."
