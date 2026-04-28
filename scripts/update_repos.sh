@@ -60,15 +60,18 @@ rm "$TEMP_ENRICHED_FILE"
 echo "Sorting repositories by stars and then contributors (descending)..."
 
 # 3. Sort enriched JSON: Stars DESC, then Contributors DESC
-SORTED_REPOS_JSON=$(echo "$ENRICHED_REPOS_JSON" | jq -s 'sort_by(.stargazers_count, .contributors) | reverse')
+SORTED_REPOS_JSON=$(echo "$ENRICHED_REPOS_JSON" | jq 'sort_by(.stargazers_count, .contributors) | reverse')
 
 echo "Building the repository table..."
 
 # 4. Build the Markdown table
 # We use jq to generate the table rows directly to ensure correctness and handle special characters
 TABLE_CONTENT=$(echo "$SORTED_REPOS_JSON" | jq -r '
-  "| id | link | stars | contributors |\n|---|---|---|---|" + 
-  (.[] | "\n| \(.id) | [\(.name)](\(.html_url)) | \(.stargazers_count) | \(.contributors) |")
+  [
+    "| No. | Link | Stars | Contributors |",
+    "|---|---|---|---|",
+    (. | to_entries | map("| \(.key + 1) | [\(.value.name)](\(.value.html_url)) | \(.value.stargazers_count) | \(.value.contributors) |"))
+  ] | flatten | join("\n")
 ')
 
 # Wrap in collapsible details section
