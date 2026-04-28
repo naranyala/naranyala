@@ -11,9 +11,6 @@
 <details>
 <summary>Click to see my repositories 🚀</summary>
 
-<<<<<<< HEAD
-
-=======
 | No. | Link |
 | :--- | :--- |
 | 1 | [ag_filepicker.nvim](https://github.com/naranyala/ag_filepicker.nvim) |
@@ -116,7 +113,6 @@
 | 98 | [starter-zig-webui-angular-rspack](https://github.com/naranyala/starter-zig-webui-angular-rspack) |
 | 99 | [turf](https://github.com/naranyala/turf) |
 | 100 | [vlang-webui-angular-rsbuild](https://github.com/naranyala/vlang-webui-angular-rsbuild) |
->>>>>>> 0cf11b4d44db2f51f2f7d5853da10c55355daf4f
 
 </details>
 <!-- REPOS_LIST_END -->
