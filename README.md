@@ -68,7 +68,7 @@
 | 53 | [libnaranyala](https://github.com/naranyala/libnaranyala) |
 | 54 | [naranyala-articles](https://github.com/naranyala/naranyala-articles) |
 | 55 | [naranyala-legacy](https://github.com/naranyala/naranyala-legacy) |
-| 56 | [naranyala-testing](https://github.com/naranyala/naranyala-testing) |
+| 56 | [naranyala](https://github.com/naranyala/naranyala) |
 | 57 | [naravisuals-dotfiles](https://github.com/naranyala/naravisuals-dotfiles) |
 | 58 | [naravisuals-web](https://github.com/naranyala/naravisuals-web) |
 | 59 | [open-webui](https://github.com/naranyala/open-webui) |
