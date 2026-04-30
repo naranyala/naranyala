@@ -98,8 +98,8 @@
 | 83 | [pi-ext-prompt-grammar-correction](https://github.com/naranyala/pi-ext-prompt-grammar-correction) | 0 | 1 |
 | 84 | [pi-ext-starter](https://github.com/naranyala/pi-ext-starter) | 0 | 1 |
 | 85 | [pyblender-ext-starter](https://github.com/naranyala/pyblender-ext-starter) | 0 | 1 |
-| 86 | [naravisuals-web](https://github.com/naranyala/naravisuals-web) | 0 | 1 |
-| 87 | [agentic-dotfiles](https://github.com/naranyala/agentic-dotfiles) | 0 | 1 |
+| 86 | [agentic-dotfiles](https://github.com/naranyala/agentic-dotfiles) | 0 | 1 |
+| 87 | [naravisuals-web](https://github.com/naranyala/naravisuals-web) | 0 | 1 |
 | 88 | [starter-electron-vite-mithril-jsx](https://github.com/naranyala/starter-electron-vite-mithril-jsx) | 0 | 0 |
 | 89 | [bun-rspack-mithril-rxjs-starter](https://github.com/naranyala/bun-rspack-mithril-rxjs-starter) | 0 | 0 |
 | 90 | [bun-electron-esbuild-preact](https://github.com/naranyala/bun-electron-esbuild-preact) | 0 | 0 |
@@ -111,6 +111,7 @@
 
 </details>
 <!-- REPOS_LIST_END -->
+
 
 
 
