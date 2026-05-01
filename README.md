@@ -94,23 +94,27 @@
 | 79 | [awesome-3d-modeling-challenges](https://github.com/naranyala/awesome-3d-modeling-challenges) | 0 | 1 |
 | 80 | [pdfkit](https://github.com/naranyala/pdfkit) | 0 | 1 |
 | 81 | [gui-python-webui-starter](https://github.com/naranyala/gui-python-webui-starter) | 0 | 1 |
-| 82 | [pi-ext-expose-reasoning-process-visuals](https://github.com/naranyala/pi-ext-expose-reasoning-process-visuals) | 0 | 1 |
-| 83 | [pi-ext-prompt-grammar-correction](https://github.com/naranyala/pi-ext-prompt-grammar-correction) | 0 | 1 |
-| 84 | [pi-ext-starter](https://github.com/naranyala/pi-ext-starter) | 0 | 1 |
-| 85 | [pyblender-ext-starter](https://github.com/naranyala/pyblender-ext-starter) | 0 | 1 |
+| 82 | [pi-ext-prompt-grammar-correction](https://github.com/naranyala/pi-ext-prompt-grammar-correction) | 0 | 1 |
+| 83 | [pi-ext-starter](https://github.com/naranyala/pi-ext-starter) | 0 | 1 |
+| 84 | [pyblender-ext-starter](https://github.com/naranyala/pyblender-ext-starter) | 0 | 1 |
+| 85 | [naravisuals-web](https://github.com/naranyala/naravisuals-web) | 0 | 1 |
 | 86 | [agentic-dotfiles](https://github.com/naranyala/agentic-dotfiles) | 0 | 1 |
-| 87 | [naravisuals-web](https://github.com/naranyala/naravisuals-web) | 0 | 1 |
-| 88 | [starter-electron-vite-mithril-jsx](https://github.com/naranyala/starter-electron-vite-mithril-jsx) | 0 | 0 |
-| 89 | [bun-rspack-mithril-rxjs-starter](https://github.com/naranyala/bun-rspack-mithril-rxjs-starter) | 0 | 0 |
-| 90 | [bun-electron-esbuild-preact](https://github.com/naranyala/bun-electron-esbuild-preact) | 0 | 0 |
-| 91 | [bun-electron-parcel-preact](https://github.com/naranyala/bun-electron-parcel-preact) | 0 | 0 |
-| 92 | [pnpm-parcel-preact-starter](https://github.com/naranyala/pnpm-parcel-preact-starter) | 0 | 0 |
-| 93 | [rust-code-exploration](https://github.com/naranyala/rust-code-exploration) | 0 | 0 |
-| 94 | [naranyala-articles](https://github.com/naranyala/naranyala-articles) | 0 | 0 |
-| 95 | [awesome-linux-appimage](https://github.com/naranyala/awesome-linux-appimage) | 0 | 0 |
+| 87 | [guifix-read-harddrive](https://github.com/naranyala/guifix-read-harddrive) | 0 | 1 |
+| 88 | [guifix-linux-dotdesktop-maker](https://github.com/naranyala/guifix-linux-dotdesktop-maker) | 0 | 1 |
+| 89 | [pi-ext-expose-reasoning-process-visuals](https://github.com/naranyala/pi-ext-expose-reasoning-process-visuals) | 0 | 1 |
+| 90 | [pi-ext-c-programming-companion](https://github.com/naranyala/pi-ext-c-programming-companion) | 0 | 1 |
+| 91 | [starter-electron-vite-mithril-jsx](https://github.com/naranyala/starter-electron-vite-mithril-jsx) | 0 | 0 |
+| 92 | [bun-rspack-mithril-rxjs-starter](https://github.com/naranyala/bun-rspack-mithril-rxjs-starter) | 0 | 0 |
+| 93 | [bun-electron-esbuild-preact](https://github.com/naranyala/bun-electron-esbuild-preact) | 0 | 0 |
+| 94 | [bun-electron-parcel-preact](https://github.com/naranyala/bun-electron-parcel-preact) | 0 | 0 |
+| 95 | [pnpm-parcel-preact-starter](https://github.com/naranyala/pnpm-parcel-preact-starter) | 0 | 0 |
+| 96 | [rust-code-exploration](https://github.com/naranyala/rust-code-exploration) | 0 | 0 |
+| 97 | [naranyala-articles](https://github.com/naranyala/naranyala-articles) | 0 | 0 |
+| 98 | [awesome-linux-appimage](https://github.com/naranyala/awesome-linux-appimage) | 0 | 0 |
 
 </details>
 <!-- REPOS_LIST_END -->
+
 
 
 
