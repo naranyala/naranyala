@@ -97,12 +97,12 @@
 | 82 | [pi-ext-prompt-grammar-correction](https://github.com/naranyala/pi-ext-prompt-grammar-correction) | 0 | 1 |
 | 83 | [pi-ext-starter](https://github.com/naranyala/pi-ext-starter) | 0 | 1 |
 | 84 | [pyblender-ext-starter](https://github.com/naranyala/pyblender-ext-starter) | 0 | 1 |
-| 85 | [naravisuals-web](https://github.com/naranyala/naravisuals-web) | 0 | 1 |
-| 86 | [agentic-dotfiles](https://github.com/naranyala/agentic-dotfiles) | 0 | 1 |
-| 87 | [guifix-read-harddrive](https://github.com/naranyala/guifix-read-harddrive) | 0 | 1 |
-| 88 | [guifix-linux-dotdesktop-maker](https://github.com/naranyala/guifix-linux-dotdesktop-maker) | 0 | 1 |
-| 89 | [pi-ext-expose-reasoning-process-visuals](https://github.com/naranyala/pi-ext-expose-reasoning-process-visuals) | 0 | 1 |
-| 90 | [pi-ext-c-programming-companion](https://github.com/naranyala/pi-ext-c-programming-companion) | 0 | 1 |
+| 85 | [agentic-dotfiles](https://github.com/naranyala/agentic-dotfiles) | 0 | 1 |
+| 86 | [guifix-read-harddrive](https://github.com/naranyala/guifix-read-harddrive) | 0 | 1 |
+| 87 | [guifix-linux-dotdesktop-maker](https://github.com/naranyala/guifix-linux-dotdesktop-maker) | 0 | 1 |
+| 88 | [pi-ext-c-programming-companion](https://github.com/naranyala/pi-ext-c-programming-companion) | 0 | 1 |
+| 89 | [naravisuals-web](https://github.com/naranyala/naravisuals-web) | 0 | 1 |
+| 90 | [pi-ext-expose-reasoning-process-visuals](https://github.com/naranyala/pi-ext-expose-reasoning-process-visuals) | 0 | 1 |
 | 91 | [starter-electron-vite-mithril-jsx](https://github.com/naranyala/starter-electron-vite-mithril-jsx) | 0 | 0 |
 | 92 | [bun-rspack-mithril-rxjs-starter](https://github.com/naranyala/bun-rspack-mithril-rxjs-starter) | 0 | 0 |
 | 93 | [bun-electron-esbuild-preact](https://github.com/naranyala/bun-electron-esbuild-preact) | 0 | 0 |
@@ -114,6 +114,7 @@
 
 </details>
 <!-- REPOS_LIST_END -->
+
 
 
 
