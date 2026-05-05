@@ -102,19 +102,21 @@
 | 87 | [guifix-linux-dotdesktop-maker](https://github.com/naranyala/guifix-linux-dotdesktop-maker) | 0 | 1 |
 | 88 | [pi-ext-c-programming-companion](https://github.com/naranyala/pi-ext-c-programming-companion) | 0 | 1 |
 | 89 | [naravisuals-web](https://github.com/naranyala/naravisuals-web) | 0 | 1 |
-| 90 | [pi-ext-expose-reasoning-process-visuals](https://github.com/naranyala/pi-ext-expose-reasoning-process-visuals) | 0 | 1 |
-| 91 | [pi-ext-prompt-clarity-with-multistep-form-or-options](https://github.com/naranyala/pi-ext-prompt-clarity-with-multistep-form-or-options) | 0 | 1 |
-| 92 | [starter-electron-vite-mithril-jsx](https://github.com/naranyala/starter-electron-vite-mithril-jsx) | 0 | 0 |
-| 93 | [bun-rspack-mithril-rxjs-starter](https://github.com/naranyala/bun-rspack-mithril-rxjs-starter) | 0 | 0 |
-| 94 | [bun-electron-esbuild-preact](https://github.com/naranyala/bun-electron-esbuild-preact) | 0 | 0 |
-| 95 | [bun-electron-parcel-preact](https://github.com/naranyala/bun-electron-parcel-preact) | 0 | 0 |
-| 96 | [pnpm-parcel-preact-starter](https://github.com/naranyala/pnpm-parcel-preact-starter) | 0 | 0 |
-| 97 | [rust-code-exploration](https://github.com/naranyala/rust-code-exploration) | 0 | 0 |
-| 98 | [naranyala-articles](https://github.com/naranyala/naranyala-articles) | 0 | 0 |
-| 99 | [awesome-linux-appimage](https://github.com/naranyala/awesome-linux-appimage) | 0 | 0 |
+| 90 | [pi-ext-prompt-clarity-with-multistep-form-or-options](https://github.com/naranyala/pi-ext-prompt-clarity-with-multistep-form-or-options) | 0 | 1 |
+| 91 | [pi-ext-better-dashboard](https://github.com/naranyala/pi-ext-better-dashboard) | 0 | 1 |
+| 92 | [pi-ext-expose-reasoning-process-visuals](https://github.com/naranyala/pi-ext-expose-reasoning-process-visuals) | 0 | 1 |
+| 93 | [starter-electron-vite-mithril-jsx](https://github.com/naranyala/starter-electron-vite-mithril-jsx) | 0 | 0 |
+| 94 | [bun-rspack-mithril-rxjs-starter](https://github.com/naranyala/bun-rspack-mithril-rxjs-starter) | 0 | 0 |
+| 95 | [bun-electron-esbuild-preact](https://github.com/naranyala/bun-electron-esbuild-preact) | 0 | 0 |
+| 96 | [bun-electron-parcel-preact](https://github.com/naranyala/bun-electron-parcel-preact) | 0 | 0 |
+| 97 | [pnpm-parcel-preact-starter](https://github.com/naranyala/pnpm-parcel-preact-starter) | 0 | 0 |
+| 98 | [rust-code-exploration](https://github.com/naranyala/rust-code-exploration) | 0 | 0 |
+| 99 | [naranyala-articles](https://github.com/naranyala/naranyala-articles) | 0 | 0 |
+| 100 | [awesome-linux-appimage](https://github.com/naranyala/awesome-linux-appimage) | 0 | 0 |
 
 </details>
 <!-- REPOS_LIST_END -->
+
 
 
 
