@@ -54,7 +54,7 @@
 </details>
 
 
-<a href="https://github.com/KoljaB">
+<a href="https://github.com/naranyala">
     <img src="https://github-stats-alpha.vercel.app/api?username=naranyala&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
