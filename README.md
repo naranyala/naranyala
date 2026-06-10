@@ -8,16 +8,19 @@
 <details open>
   <summary><h2>some links</h2></summary>
 
-[github.com/stars/naranyala](https://github.com/stars/naranyala)
+[stars/naranyala](https://github.com/stars/naranyala)
 
   
 </details>
 
 
-<details>
+<details open>
   <summary><h2>some interest</h2></summary>
 
-TBD
+[orgs/WebAssembly](https://github.com/orgs/WebAssembly/repositories?q=sort%3Astars)
+
+[orgs/bytecodealliance](https://github.com/orgs/bytecodealliance/repositories?q=sort%3Astars)
+
 
 </details>
 
