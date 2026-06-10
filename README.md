@@ -21,6 +21,11 @@
 
 [orgs/bytecodealliance](https://github.com/orgs/bytecodealliance/repositories?q=sort%3Astars)
 
+[search/WebAssembly](https://github.com/search?q=language%3AWebAssembly&type=repositories&s=stars&o=desc)
+
+[topics/webassembly](https://github.com/topics/webassembly)
+
+[topics/wasm](https://github.com/topics/wasm)
 
 </details>
 
