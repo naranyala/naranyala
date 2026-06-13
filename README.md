@@ -1,7 +1,16 @@
 
+<table>
+    <tr>
+        <td>
 <a href="https://github.com/naranyala">
     <img src="https://github-stats-alpha.vercel.app/api?username=naranyala&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+</a>            
+        </td>
+        <td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naranyala&layout=compact"/>        
+        </td>
+    </tr>
+</table>
 
 
 
