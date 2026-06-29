@@ -19,6 +19,11 @@
 
 [stars/naranyala](https://github.com/stars/naranyala)
 
+[gh/trending (general)](https://github.com/trending)
+
+[gh/trending (c-monthly)](https://github.com/trending/c?since=monthly)
+
+[gh/trending (rust-monthly)](https://github.com/trending/rust?since=monthly)
   
 </details>
 
