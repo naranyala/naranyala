@@ -1,0 +1,20 @@
+
+## c/zig related
+
+[naranyala/dotfiles-mgr-zig](https://github.com/naranyala/dotfiles-mgr-zig)
+
+[naranyala/labwc-fuzzel-sfwbar](https://github.com/naranyala/labwc-fuzzel-sfwbar)
+
+[naranyala/similar-but-different-gui](https://github.com/naranyala/similar-but-different-gui)
+
+[naranyala/niche-c-codebases-to-know](https://github.com/naranyala/niche-c-codebases-to-know)
+
+[naranyala/awesome-gitrepos-outside-github](https://github.com/naranyala/awesome-gitrepos-outside-github)
+
+[naranyala/minimal-and-netinstall-linux](https://github.com/naranyala/minimal-and-netinstall-linux)
+
+## geo/map related
+
+TBD
+
+<!-- []() -->
