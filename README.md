@@ -1,3 +1,13 @@
+## inspirations
+
+[gh/search-c](https://github.com/search?q=language%3AC&type=repositories)
+
+[gh/search-zig](https://github.com/search?q=language%3AZig&type=repositories)
+
+[codeberg/search-c](https://codeberg.org/explore/repos?language=C&q=&only_show_relevant=true&sort=moststars)
+
+[codeberg/search-zig](https://codeberg.org/explore/repos?language=Zig&q=&only_show_relevant=true&sort=moststars)
+
 
 ## c/zig related
 
