@@ -17,6 +17,8 @@
 
 [naranyala/similar-but-different-gui](https://github.com/naranyala/similar-but-different-gui)
 
+[naranyala/awesome-c-written-headers](https://github.com/naranyala/awesome-c-written-headers)
+
 [naranyala/niche-c-codebases-to-know](https://github.com/naranyala/niche-c-codebases-to-know)
 
 [naranyala/awesome-gitrepos-outside-github](https://github.com/naranyala/awesome-gitrepos-outside-github)
