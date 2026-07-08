@@ -1,7 +1,7 @@
 
 ## c/zig related
 
-[naranyala/dotfiles-mgr-zig](https://github.com/naranyala/dotfiles-mgr-zig)
+[naranyala/maps-driven-freewriting](https://github.com/naranyala/maps-driven-freewriting)
 
 [naranyala/labwc-fuzzel-sfwbar](https://github.com/naranyala/labwc-fuzzel-sfwbar)
 
