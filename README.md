@@ -25,6 +25,8 @@
 
 [naranyala/minimal-and-netinstall-linux](https://github.com/naranyala/minimal-and-netinstall-linux)
 
+[naranyala/bg-process-and-systray-libs](https://github.com/naranyala/bg-process-and-systray-libs)
+
 ## geo/map related
 
 TBD
