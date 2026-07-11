@@ -25,6 +25,8 @@
 
 [naranyala/bg-process-and-systray-libs](https://github.com/naranyala/bg-process-and-systray-libs)
 
+[naranyala/memory-corruption-misalignment](https://github.com/naranyala/memory-corruption-misalignment)
+
 ## geo/map related
 
 TBD
