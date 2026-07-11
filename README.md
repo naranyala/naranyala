@@ -11,8 +11,6 @@
 
 ## c/zig related
 
-[naranyala/maps-driven-freewriting](https://github.com/naranyala/maps-driven-freewriting)
-
 [naranyala/labwc-fuzzel-sfwbar](https://github.com/naranyala/labwc-fuzzel-sfwbar)
 
 [naranyala/similar-but-different-gui](https://github.com/naranyala/similar-but-different-gui)
