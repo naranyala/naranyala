@@ -29,8 +29,4 @@
 
 [naranyala/openmandriva-dnf-brew-flatpak](https://github.com/naranyala/openmandriva-dnf-brew-flatpak)
 
-## geo/map related
-
-TBD
-
 <!-- []() -->
