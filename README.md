@@ -11,7 +11,7 @@
 
 ## c/zig related
 
-[naranyala/labwc-fuzzel-sfwbar](https://github.com/naranyala/labwc-fuzzel-sfwbar)
+[naranyala/labwc-zigshell](https://github.com/naranyala/labwc-zigshell)
 
 [naranyala/similar-but-different-gui](https://github.com/naranyala/similar-but-different-gui)
 
