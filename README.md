@@ -13,6 +13,8 @@
 
 [nanostores/nanostores](https://github.com/nanostores/nanostores)
 
+[vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+
 ## inspirations
 
 [gh/search-c](https://github.com/search?q=language%3AC&type=repositories)
