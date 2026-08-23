@@ -1,7 +1,12 @@
 
 ## web stacks
 
+<details>
+<summary>show</summary></br>
+
 [pnpm/pnpm](https://github.com/pnpm/pnpm)
+
+[biomejs/biome](https://github.com/biomejs/biome)
 
 [evanw/esbuild](https://github.com/evanw/esbuild)
 
@@ -14,6 +19,8 @@
 [nanostores/nanostores](https://github.com/nanostores/nanostores)
 
 [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+
+</details>
 
 ## inspirations
 
