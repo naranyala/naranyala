@@ -7,6 +7,8 @@
 
 [react/react](https://github.com/react/react)
 
+[molefrog/wouter](https://github.com/molefrog/wouter)
+
 [cristianbote/goober](https://github.com/cristianbote/goober)
 
 [nanostores/nanostores](https://github.com/nanostores/nanostores)
