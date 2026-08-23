@@ -1,3 +1,16 @@
+
+## web stacks
+
+[pnpm/pnpm](https://github.com/pnpm/pnpm)
+
+[evanw/esbuild](https://github.com/evanw/esbuild)
+
+[react/react](https://github.com/react/react)
+
+[cristianbote/goober](https://github.com/cristianbote/goober)
+
+[nanostores/nanostores](https://github.com/nanostores/nanostores)
+
 ## inspirations
 
 [gh/search-c](https://github.com/search?q=language%3AC&type=repositories)
