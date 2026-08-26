@@ -35,6 +35,9 @@
 
 ## c/zig related
 
+<details>
+<summary>show</summary></br>
+
 [naranyala/labwc-zigshell](https://github.com/naranyala/labwc-zigshell)
 
 [naranyala/similar-but-different-gui](https://github.com/naranyala/similar-but-different-gui)
@@ -53,4 +56,14 @@
 
 [naranyala/openmandriva-dnf-brew-flatpak](https://github.com/naranyala/openmandriva-dnf-brew-flatpak)
 
+</details>
+
 <!-- []() -->
+
+## market trends
+
+[gh-trending/python](https://github.com/trending/python?since=monthly)
+
+[gh-trending/go](https://github.com/trending/go?since=monthly)
+
+[gh-trending/c++](https://github.com/trending/c++?since=monthly)
