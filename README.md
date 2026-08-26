@@ -67,3 +67,5 @@
 [gh-trending/go](https://github.com/trending/go?since=monthly)
 
 [gh-trending/c++](https://github.com/trending/c++?since=monthly)
+
+[gh-trending/rust](https://github.com/trending/rust?since=monthly)
