@@ -54,7 +54,7 @@
 
 [naranyala/memory-corruption-misalignment](https://github.com/naranyala/memory-corruption-misalignment)
 
-[naranyala/openmandriva-dnf-brew-flatpak](https://github.com/naranyala/openmandriva-dnf-brew-flatpak)
+[naranyala/artix-pacman-brew-flatpak](https://github.com/naranyala/artix-pacman-brew-flatpak)
 
 </details>
 
