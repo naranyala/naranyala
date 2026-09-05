@@ -16,3 +16,5 @@
 [blender/blender](https://github.com/blender/blender)
 
 [juce-framework/JUCE](https://github.com/juce-framework/JUCE)
+
+[Ardour/ardour](https://github.com/Ardour/ardour)
