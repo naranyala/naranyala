@@ -33,3 +33,7 @@
 [gh-search/julia](https://github.com/search?q=language%3AJulia&type=repositories&s=stars&o=desc)
 
 [hackernews-search/julia](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=julia&sort=byPopularity&type=story)
+
+[codeberg-search/julia](https://codeberg.org/explore/repos?language=Julia&q=&only_show_relevant=true&sort=moststars)
+
+
