@@ -42,4 +42,4 @@
 
 ---
 
-![./julia-focused.png]
+![./julia-focused.png](./julia-focused.png)
