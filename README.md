@@ -9,6 +9,8 @@
 
 [https://brew.sh](https://brew.sh)
 
+<!--
+
 ## inspirations
 
 [KDE/plasma-desktop](https://github.com/KDE/plasma-desktop)
@@ -27,6 +29,8 @@
 
 [naranyala/awesome-awesome-audio-programming](https://github.com/naranyala/awesome-awesome-audio-programming)
 
+-->
+
 ## niche interest
 
 
@@ -36,4 +40,6 @@
 
 [codeberg-search/julia](https://codeberg.org/explore/repos?language=Julia&q=&only_show_relevant=true&sort=moststars)
 
+---
 
+![./julia-focused.png]
