@@ -31,10 +31,19 @@
 
 -->
 
+## qml is the future
+
+[github-search/qml](https://github.com/search?q=lang%3Aqml&type=repositories&s=stars&o=desc)
+
+[hackernews-search/qml](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=qml&sort=byPopularity&type=story)
+
+[codeberg-search/qml](https://codeberg.org/explore/repos?language=QML&q=&only_show_relevant=true&sort=moststars)
+
+
 ## niche interest
 
 
-[gh-search/julia](https://github.com/search?q=language%3AJulia&type=repositories&s=stars&o=desc)
+[github-search/julia](https://github.com/search?q=language%3AJulia&type=repositories&s=stars&o=desc)
 
 [hackernews-search/julia](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=julia&sort=byPopularity&type=story)
 
