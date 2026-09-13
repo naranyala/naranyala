@@ -9,6 +9,16 @@
 
 [https://brew.sh](https://brew.sh)
 
+## fav news sources
+
+[https://news.ycombinator.com/](https://news.ycombinator.com/)
+
+[https://lwn.net/](https://lwn.net/)
+
+[https://www.phoronix.com/](https://www.phoronix.com/)
+
+[https://linuxiac.com/](https://linuxiac.com/)
+
 <!--
 
 ## inspirations
