@@ -11,6 +11,8 @@
 
 ## fav news sources
 
+chrome browser news feed
+
 [https://news.ycombinator.com/](https://news.ycombinator.com/)
 
 [https://lwn.net/](https://lwn.net/)
