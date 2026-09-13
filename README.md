@@ -9,6 +9,8 @@
 
 [https://brew.sh](https://brew.sh)
 
+<!--
+
 ## fav news sources
 
 chrome browser news feed
@@ -20,8 +22,6 @@ chrome browser news feed
 [https://www.phoronix.com/](https://www.phoronix.com/)
 
 [https://linuxiac.com/](https://linuxiac.com/)
-
-<!--
 
 ## inspirations
 
