@@ -11,28 +11,6 @@
 
 <!--
 
-## fav news sources
-
-chrome browser news feed
-
-[https://news.ycombinator.com/](https://news.ycombinator.com/)
-
-[https://lwn.net/](https://lwn.net/)
-
-[https://www.phoronix.com/](https://www.phoronix.com/)
-
-[https://linuxiac.com/](https://linuxiac.com/)
-
-## inspirations
-
-[KDE/plasma-desktop](https://github.com/KDE/plasma-desktop)
-
-[blender/blender](https://github.com/blender/blender)
-
-[juce-framework/JUCE](https://github.com/juce-framework/JUCE)
-
-[Ardour/ardour](https://github.com/Ardour/ardour)
-
 ## fav repos
 
 [naranyala/awesome-comparative-study](https://github.com/naranyala/awesome-comparative-study)
@@ -42,15 +20,6 @@ chrome browser news feed
 [naranyala/awesome-awesome-audio-programming](https://github.com/naranyala/awesome-awesome-audio-programming)
 
 -->
-
-## qml is the future
-
-[github-search/qml](https://github.com/search?q=lang%3Aqml&type=repositories&s=stars&o=desc)
-
-[hackernews-search/qml](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=qml&sort=byPopularity&type=story)
-
-[codeberg-search/qml](https://codeberg.org/explore/repos?language=QML&q=&only_show_relevant=true&sort=moststars)
-
 
 ## niche interest
 
@@ -64,3 +33,22 @@ chrome browser news feed
 ---
 
 ![./julia-focused.png](./julia-focused.png)
+
+
+## qml is the future
+
+[github-search/qml](https://github.com/search?q=lang%3Aqml&type=repositories&s=stars&o=desc)
+
+[hackernews-search/qml](https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=qml&sort=byPopularity&type=story)
+
+[codeberg-search/qml](https://codeberg.org/explore/repos?language=QML&q=&only_show_relevant=true&sort=moststars)
+
+## amazing people is here
+
+[DankMaterialShell/contributors](https://github.com/AvengeMedia/DankMaterialShell/graphs/contributors?all=1)
+
+[noctalia/contributors](https://github.com/noctalia-dev/noctalia/graphs/contributors?all=1)
+
+[caelestia-dots/contributors](https://github.com/caelestia-dots/shell/graphs/contributors?all=1)
+
+[serpantinum/contributors](https://github.com/ilyamiro/serpantinum/graphs/contributors?all=1)
