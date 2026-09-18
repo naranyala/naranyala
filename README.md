@@ -1,6 +1,8 @@
 
 > what does a system library like "blablabla" enable the community to do? imagine if it had never been created
 
+> who invented dynamo rotor? what happen if the world never have dynamo >>> now AI and coding agent, what future potential will happen when the-new-dynamo is AI and coding agent?
+
 ## package search
 
 [https://pkgs.org/](https://pkgs.org/)
