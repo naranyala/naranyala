@@ -1,7 +1,7 @@
 
 > what does a system library like "blablabla" enable the community to do? imagine if it had never been created
 
-> who invented dynamo rotor? what happen if the world never have dynamo >>> now AI and coding agent, what future potential will happen when the-new-dynamo is AI and coding agent?
+> who invented dynamo rotor? what happen if the world never have dynamo; now AI and coding agent, what future potential will happen when the-new-dynamo is AI and coding agent?
 
 critics and support is here: [naranyala/repositories](https://github.com/naranyala?tab=repositories)
 
