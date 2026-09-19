@@ -3,7 +3,12 @@
 
 > who invented dynamo rotor? what happen if the world never have dynamo >>> now AI and coding agent, what future potential will happen when the-new-dynamo is AI and coding agent?
 
-## package search
+critics and support is here: [naranyala/repositories](https://github.com/naranyala?tab=repositories)
+
+![./julia-focused.png](./julia-focused.png)
+
+<details>
+<summary>package search</summary><br/>
 
 [https://pkgs.org/](https://pkgs.org/)
 
@@ -11,20 +16,10 @@
 
 [https://brew.sh](https://brew.sh)
 
-<!--
+</details>
 
-## fav repos
-
-[naranyala/awesome-comparative-study](https://github.com/naranyala/awesome-comparative-study)
-
-[naranyala/awesome-awesome-3d-blender](https://github.com/naranyala/awesome-awesome-3d-blender)
-
-[naranyala/awesome-awesome-audio-programming](https://github.com/naranyala/awesome-awesome-audio-programming)
-
--->
-
-## niche interest
-
+<details>
+<summary>niche interest</summary><br/>
 
 [github-search/julia](https://github.com/search?q=language%3AJulia&type=repositories&s=stars&o=desc)
 
@@ -32,12 +27,10 @@
 
 [codeberg-search/julia](https://codeberg.org/explore/repos?language=Julia&q=&only_show_relevant=true&sort=moststars)
 
----
+</details>
 
-![./julia-focused.png](./julia-focused.png)
-
-
-## qml is the future
+<details>
+<summary>qml is the future</summary><br/>
 
 [github-search/qml](https://github.com/search?q=lang%3Aqml&type=repositories&s=stars&o=desc)
 
@@ -45,7 +38,10 @@
 
 [codeberg-search/qml](https://codeberg.org/explore/repos?language=QML&q=&only_show_relevant=true&sort=moststars)
 
-## amazing people is here
+</details>
+
+<details>
+<summary>amazing people is here</summary><br/>
 
 [DankMaterialShell/contributors](https://github.com/AvengeMedia/DankMaterialShell/graphs/contributors?all=1)
 
@@ -54,3 +50,5 @@
 [caelestia-dots/contributors](https://github.com/caelestia-dots/shell/graphs/contributors?all=1)
 
 [serpantinum/contributors](https://github.com/ilyamiro/serpantinum/graphs/contributors?all=1)
+
+</details>
