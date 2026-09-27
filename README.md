@@ -52,3 +52,13 @@ critics and support is here: [naranyala/repositories](https://github.com/naranya
 [serpantinum/contributors](https://github.com/ilyamiro/serpantinum/graphs/contributors?all=1)
 
 </details>
+
+---
+
+[github-search/lua](https://github.com/search?q=language%3ALua&type=repositories&s=stars)
+
+[github-search/c](https://github.com/search?q=language%3AC&type=repositories&s=stars)
+
+[codeberg-search/lua](https://codeberg.org/explore/repos?sort=moststars&language=Lua)
+
+[codeberg-search/c](https://codeberg.org/explore/repos?sort=moststars&language=C)
