@@ -1,3 +1,5 @@
+> how to embrace hacker mentality in good way in sense of life practicality
+
 <details>
 
   <summary>prompts</summary><br>
