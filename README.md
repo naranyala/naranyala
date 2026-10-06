@@ -1,8 +1,17 @@
+<details open="true">
+
+  <summary>primary prompts</summary><br>
+
+
 > how to embrace hacker mentality in good way in sense of life practicality
+
+> industrial revolution spark many stuff that enhance human life, elaborate specifically about "portable" or "portability"
+
+</details>
 
 <details>
 
-  <summary>prompts</summary><br>
+  <summary>another prompts</summary><br>
 
 - i love dart/flutter programming on windows os; suggest me weird/exploration project ideas or library ideas, especially low level stuff
 - which type of library that potentially have largest use cases and worth to pursue to build
@@ -12,6 +21,8 @@
 - what we still missing to talk, try to fulfill the gaps
 
 </details>
+
+---
 
 [github-search/C#](https://github.com/search?q=language%3AC%23&type=repositories&s=stars&o=desc)
 
