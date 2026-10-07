@@ -7,6 +7,8 @@
 
 > industrial revolution spark many stuff that enhance human life, elaborate specifically about "portable" or "portability"
 
+> what is the art of peaky blinders series, expose everything but exclude the visual stuff
+
 </details>
 
 <details>
