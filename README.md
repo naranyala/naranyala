@@ -12,6 +12,8 @@
 > what if country like indonesia plant more trees and mangroves
 
 > does a country like indonesia depend on globalization to build its economy
+> 
+> what type of strategies that benefit both globalization and local business, empower locals
 
 </details>
 
