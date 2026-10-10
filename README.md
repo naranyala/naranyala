@@ -9,6 +9,10 @@
 
 > what is the art of peaky blinders series, expose everything but exclude the visual stuff
 
+> what if country like indonesia plant more trees and mangroves
+
+> does a country like indonesia depend on globalization to build its economy
+
 </details>
 
 <details>
