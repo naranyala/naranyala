@@ -7,11 +7,15 @@
 >
 > what is the art of peaky blinders series, expose everything but exclude the visual stuff
 >
+> what key ingredients of advanced civilization
+>
 > what if country like indonesia plant more trees and mangroves
 >
 > does a country like indonesia depend on globalization to build its economy
 >
 > what type of strategies that benefit both globalization and local business, empower locals
+>
+> tier-1 cities in indonesia provide rich facilities and opportunities; how to make tier-2 and tier-3 cities diversify their economy
  
 </details>
 
