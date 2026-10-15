@@ -65,6 +65,8 @@ TBD
 
 [orgs/georust](https://github.com/orgs/georust/repositories?q=sort%3Astars)
 
+[orgs/image-rs](https://github.com/orgs/image-rs/repositories?q=sort%3Astars)
+
 </details>
 
 
