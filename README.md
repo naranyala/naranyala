@@ -63,6 +63,8 @@ TBD
 
 [orgs/bytecodealliance](https://github.com/orgs/bytecodealliance/repositories?q=sort%3Astars)
 
+[orgs/georust](https://github.com/orgs/georust/repositories?q=sort%3Astars)
+
 </details>
 
 
