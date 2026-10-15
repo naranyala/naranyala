@@ -37,6 +37,13 @@
 </details>
 
 <details>
+  <summary>research</summary><br>
+
+TBD
+
+</details>
+
+<details>
   <summary>explore repos</summary><br>
 
 [github-search/C#](https://github.com/search?q=language%3AC%23&type=repositories&s=stars&o=desc)
@@ -47,16 +54,15 @@
 
 </details>
 
-<details>
+<details open>
   <summary>fav orgs</summary><br>
 
-[storytold/*craft](https://github.com/orgs/storytold/repositories?q=sort%3Astars)
+[orgs/storytold](https://github.com/orgs/storytold/repositories?q=sort%3Astars)
+
+[orgs/linebender](https://github.com/orgs/linebender/repositories?q=sort%3Astars)
+
+[orgs/bytecodealliance](https://github.com/orgs/bytecodealliance/repositories?q=sort%3Astars)
 
 </details>
 
-<details>
-  <summary>research</summary><br>
 
-TBD
-
-</details>
