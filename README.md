@@ -54,7 +54,7 @@ TBD
 
 </details>
 
-<details open>
+<details>
   <summary>fav orgs</summary><br>
 
 [orgs/storytold](https://github.com/orgs/storytold/repositories?q=sort%3Astars)
@@ -72,4 +72,34 @@ TBD
 
 </details>
 
+<details open>
+  <summary>on watch</summary><br>
+
+[photocraft/releases](https://github.com/storytold/photocraft/releases)
+
+[vectorcraft/releases](https://github.com/storytold/vectorcraft/releases)
+
+[filmcraft/releases](https://github.com/storytold/filmcraft/releases)
+
+[lightcraft/releases](https://github.com/storytold/lightcraft/releases)
+
+[pdfcraft/releases](https://github.com/storytold/pdfcraft/releases)
+
+[effectcraft/releases](https://github.com/storytold/effectcraft/releases)
+
+[designcraft/releases](https://github.com/storytold/designcraft/releases)
+
+[wordcraft/releases](https://github.com/storytold/wordcraft/releases)
+
+[deckcraft/releases](https://github.com/storytold/deckcraft/releases)
+
+[gridcraft/releases](https://github.com/storytold/gridcraft/releases)
+
+[cadcraft/releases](https://github.com/storytold/cadcraft/releases)
+
+[soundcraft/releases](https://github.com/storytold/soundcraft/releases)
+
+[figcraft/releases](https://github.com/storytold/figcraft/releases)
+
+</details>
 
