@@ -59,13 +59,16 @@ TBD
 
 [orgs/storytold](https://github.com/orgs/storytold/repositories?q=sort%3Astars)
 
-[orgs/linebender](https://github.com/orgs/linebender/repositories?q=sort%3Astars)
-
 [orgs/bytecodealliance](https://github.com/orgs/bytecodealliance/repositories?q=sort%3Astars)
 
 [orgs/georust](https://github.com/orgs/georust/repositories?q=sort%3Astars)
 
 [orgs/image-rs](https://github.com/orgs/image-rs/repositories?q=sort%3Astars)
+
+[orgs/linebender](https://github.com/orgs/linebender/repositories?q=sort%3Astars)
+
+[orgs/RustAudio](https://github.com/orgs/RustAudio/repositories?q=sort%3Astars)
+
 
 </details>
 
