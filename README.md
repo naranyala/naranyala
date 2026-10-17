@@ -1,7 +1,3 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=naranyala&count_private=true&show_icons=true&theme=dark&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naranyala&exclude_repo=frityet.github.io,ObjGTK4&theme=dark&hide=cmake,makefile,shaderlab,mathematica,hlsl)
-
 
 <details open>
   <summary>primary prompts</summary><br>
@@ -42,13 +38,6 @@
 </details>
 
 <details>
-  <summary>research</summary><br>
-
-TBD
-
-</details>
-
-<details>
   <summary>explore repos</summary><br>
 
 [github-search/C#](https://github.com/search?q=language%3AC%23&type=repositories&s=stars&o=desc)
@@ -63,10 +52,18 @@ TBD
 
 </details>
 
-<details>
-  <summary>fav orgs</summary><br>
+<details open>
+  <summary>fav repo/orgs to watch</summary><br>
+
+[egui/releases](https://github.com/emilk/egui/releases)
 
 [orgs/storytold](https://github.com/orgs/storytold/repositories?q=sort%3Astars)
+
+</details>
+
+<details>
+  <summary>another repo/orgs to watch</summary><br>
+
 
 [orgs/bytecodealliance](https://github.com/orgs/bytecodealliance/repositories?q=sort%3Astars)
 
@@ -78,37 +75,18 @@ TBD
 
 [orgs/RustAudio](https://github.com/orgs/RustAudio/repositories?q=sort%3Astars)
 
+</details>
+
+<details>
+
+  <summary>personal connect the dots</summary><br>
+
+TBD
 
 </details>
 
-<details open>
-  <summary>on watch</summary><br>
+---
 
-[photocraft/releases](https://github.com/storytold/photocraft/releases)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=naranyala&count_private=true&show_icons=true&theme=dark&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
 
-[vectorcraft/releases](https://github.com/storytold/vectorcraft/releases)
-
-[filmcraft/releases](https://github.com/storytold/filmcraft/releases)
-
-[lightcraft/releases](https://github.com/storytold/lightcraft/releases)
-
-[pdfcraft/releases](https://github.com/storytold/pdfcraft/releases)
-
-[effectcraft/releases](https://github.com/storytold/effectcraft/releases)
-
-[designcraft/releases](https://github.com/storytold/designcraft/releases)
-
-[wordcraft/releases](https://github.com/storytold/wordcraft/releases)
-
-[deckcraft/releases](https://github.com/storytold/deckcraft/releases)
-
-[gridcraft/releases](https://github.com/storytold/gridcraft/releases)
-
-[cadcraft/releases](https://github.com/storytold/cadcraft/releases)
-
-[soundcraft/releases](https://github.com/storytold/soundcraft/releases)
-
-[figcraft/releases](https://github.com/storytold/figcraft/releases)
-
-</details>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naranyala&exclude_repo=frityet.github.io,ObjGTK4&theme=dark&hide=cmake,makefile,shaderlab,mathematica,hlsl)
