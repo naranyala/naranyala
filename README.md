@@ -52,6 +52,10 @@ TBD
 
 [github-search/C](https://github.com/search?q=language%3AC&type=repositories&s=stars&o=desc)
 
+[github-search/C++](https://github.com/search?q=language%3AC%2B%2B&type=repositories&s=stars&o=desc)
+
+[github-search/Rust](https://github.com/search?q=language%3ARust&type=repositories&s=stars&o=desc)
+
 </details>
 
 <details>
