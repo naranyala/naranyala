@@ -1,5 +1,5 @@
 
-<details open>
+<details>
   <summary>primary prompts</summary><br>
     
 > how to embrace hacker mentality in good way in sense of life practicality
@@ -20,7 +20,7 @@
  
 </details>
 
-<details>
+<details open>
   <summary>another prompts</summary><br>
 
 > i love dart/flutter programming on windows os; suggest me weird/exploration project ideas or library ideas, especially low level stuff
