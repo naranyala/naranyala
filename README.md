@@ -1,3 +1,8 @@
+ 
+| my proud of projects/libraries |
+|---|
+| [naranyala/mindmap-gui](https://github.com/naranyala/mindmap-gui) |
+
 
 <details>
   <summary>primary prompts</summary><br>
