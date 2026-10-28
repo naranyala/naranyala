@@ -68,6 +68,8 @@
 
 [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch)
 
+[homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
+
 </details>
 
 <details>
