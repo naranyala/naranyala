@@ -4,7 +4,7 @@
 | [naranyala/mindmap-gui](https://github.com/naranyala/mindmap-gui) |
 | [naranyala/pkg-explorer](https://github.com/naranyala/pkg-explorer) |
 | [naranyala/audio-eq](https://github.com/naranyala/audio-eq) |
-
+| [naranyala/awesome-digital-printing](https://github.com/naranyala/awesome-digital-printing) | 
 
 <details>
   <summary>primary prompts</summary><br>
