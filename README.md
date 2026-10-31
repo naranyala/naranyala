@@ -5,6 +5,7 @@
 | [naranyala/pkg-explorer](https://github.com/naranyala/pkg-explorer) |
 | [naranyala/audio-eq](https://github.com/naranyala/audio-eq) |
 | [naranyala/awesome-digital-printing](https://github.com/naranyala/awesome-digital-printing) | 
+| [naranyala/company-computer-net-and-data-mgmt](https://github.com/naranyala/company-computer-net-and-data-mgmt) |
 
 <details>
   <summary>primary prompts</summary><br>
