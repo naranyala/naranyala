@@ -80,6 +80,7 @@
 <details>
   <summary>another repo/orgs to watch</summary><br>
 
+[orgs/boost](https://github.com/orgs/boostorg/repositories?q=sort%3Astars)
 
 [orgs/bytecodealliance](https://github.com/orgs/bytecodealliance/repositories?q=sort%3Astars)
 
