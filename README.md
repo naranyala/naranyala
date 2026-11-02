@@ -6,6 +6,8 @@
 | [naranyala/audio-eq](https://github.com/naranyala/audio-eq) |
 | [naranyala/awesome-digital-printing](https://github.com/naranyala/awesome-digital-printing) | 
 | [naranyala/company-computer-net-and-data-mgmt](https://github.com/naranyala/company-computer-net-and-data-mgmt) |
+| [naranyala/awesome-software-idioms](https://github.com/naranyala/awesome-software-idioms) |
+| [naranyala/awesome-dart-flutter-apps](https://github.com/naranyala/awesome-dart-flutter-apps) | 
 
 <details>
   <summary>primary prompts</summary><br>
