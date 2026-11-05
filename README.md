@@ -1,13 +1,5 @@
  
-| my proud of projects/libraries |
-|---|
-| [naranyala/mindmap-gui](https://github.com/naranyala/mindmap-gui) |
-| [naranyala/pkg-explorer](https://github.com/naranyala/pkg-explorer) |
-| [naranyala/audio-eq](https://github.com/naranyala/audio-eq) |
-| [naranyala/awesome-digital-printing](https://github.com/naranyala/awesome-digital-printing) | 
-| [naranyala/company-computer-net-and-data-mgmt](https://github.com/naranyala/company-computer-net-and-data-mgmt) |
-| [naranyala/awesome-software-idioms](https://github.com/naranyala/awesome-software-idioms) |
-| [naranyala/awesome-dart-flutter-apps](https://github.com/naranyala/awesome-dart-flutter-apps) | 
+
 
 <details>
   <summary>primary prompts</summary><br>
@@ -107,3 +99,15 @@ TBD
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=naranyala&count_private=true&show_icons=true&theme=dark&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naranyala&exclude_repo=frityet.github.io,ObjGTK4&theme=dark&hide=cmake,makefile,shaderlab,mathematica,hlsl)
+
+---
+
+| my proud of projects/libraries |
+|---|
+| [naranyala/mindmap-gui](https://github.com/naranyala/mindmap-gui) |
+| [naranyala/pkg-explorer](https://github.com/naranyala/pkg-explorer) |
+| [naranyala/audio-eq](https://github.com/naranyala/audio-eq) |
+| [naranyala/awesome-digital-printing](https://github.com/naranyala/awesome-digital-printing) | 
+| [naranyala/company-computer-net-and-data-mgmt](https://github.com/naranyala/company-computer-net-and-data-mgmt) |
+| [naranyala/awesome-software-idioms](https://github.com/naranyala/awesome-software-idioms) |
+| [naranyala/awesome-dart-flutter-apps](https://github.com/naranyala/awesome-dart-flutter-apps) | 
