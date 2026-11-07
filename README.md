@@ -108,11 +108,12 @@ TBD
 
 | my proud of projects/libraries |
 |---|
-| [naranyala/mindmap-gui](https://github.com/naranyala/mindmap-gui) |
-| [naranyala/pkg-explorer](https://github.com/naranyala/pkg-explorer) |
-| [naranyala/audio-eq](https://github.com/naranyala/audio-eq) |
 | [naranyala/awesome-digital-printing](https://github.com/naranyala/awesome-digital-printing) | 
+| [naranyala-awesome-digital-printing-products](https://github.com/naranyala/awesome-digital-printing-products) |
 | [naranyala/company-computer-net-and-data-mgmt](https://github.com/naranyala/company-computer-net-and-data-mgmt) |
 | [naranyala/awesome-software-idioms](https://github.com/naranyala/awesome-software-idioms) |
 | [naranyala/awesome-dart-flutter-apps](https://github.com/naranyala/awesome-dart-flutter-apps) | 
 | [naranyala/dart-flutter-into-rust-egui-equivalent](https://github.com/naranyala/dart-flutter-into-rust-egui-equivalent) |
+| [awesome-tech-wiki-comparison](https://github.com/naranyala/awesome-tech-wiki-comparison) |
+| [naranyala/awesome-mindmap-software](https://github.com/naranyala/awesome-mindmap-software) |
+| [naranyala/mindmap-gui](https://github.com/naranyala/mindmap-gui) |
