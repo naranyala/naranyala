@@ -111,6 +111,7 @@ TBD
 | [naranyala/awesome-digital-printing](https://github.com/naranyala/awesome-digital-printing) | 
 | [naranyala-awesome-digital-printing-products](https://github.com/naranyala/awesome-digital-printing-products) |
 | [naranyala/company-computer-net-and-data-mgmt](https://github.com/naranyala/company-computer-net-and-data-mgmt) |
+| [naranyala/mobile-apps-worth-to-port](https://github.com/naranyala/mobile-apps-worth-to-port) |
 | [naranyala/awesome-dart-flutter-apps](https://github.com/naranyala/awesome-dart-flutter-apps) | 
 | [naranyala/dart-flutter-into-rust-egui-equivalent](https://github.com/naranyala/dart-flutter-into-rust-egui-equivalent) |
 | [naranyala/awesome-tech-wiki-comparison](https://github.com/naranyala/awesome-tech-wiki-comparison) |
