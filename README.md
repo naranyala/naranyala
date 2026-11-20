@@ -67,6 +67,8 @@
 
 [homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core)
 
+[orgs/openjdk](https://github.com/orgs/openjdk/repositories?q=sort%3Astars)
+
 </details>
 
 <details>
