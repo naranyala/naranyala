@@ -22,7 +22,7 @@
  
 </details>
 
-<details open>
+<details>
   <summary>another prompts</summary><br>
 
 > i love dart/flutter programming on windows os; suggest me weird/exploration project ideas or library ideas, especially low level stuff
@@ -39,7 +39,7 @@
 
 </details>
 
-<details>
+<details open>
   <summary>explore repos</summary><br>
 
 [github-search/C#](https://github.com/search?q=language%3AC%23&type=repositories&s=stars&o=desc)
@@ -112,6 +112,7 @@ TBD
 |---|
 | [naranyala/awesome-digital-printing](https://github.com/naranyala/awesome-digital-printing) | 
 | [naranyala-awesome-digital-printing-products](https://github.com/naranyala/awesome-digital-printing-products) |
+| [naranyala/awesome-digital-print-machines](https://github.com/naranyala/awesome-digital-print-machines) | 
 | [naranyala/company-computer-net-and-data-mgmt](https://github.com/naranyala/company-computer-net-and-data-mgmt) |
 | [naranyala/unique-windows-and-linux-apps](https://github.com/naranyala/unique-windows-and-linux-apps) |
 | [naranyala/mobile-apps-worth-to-port](https://github.com/naranyala/mobile-apps-worth-to-port) |
