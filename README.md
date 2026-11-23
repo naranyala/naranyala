@@ -46,6 +46,8 @@
 
 [github-search/Dart](https://github.com/search?q=language%3ADart&type=repositories&s=stars&o=desc)
 
+[github-search/Java](https://github.com/search?q=language%3AJava&type=repositories&s=stars&o=desc)
+
 [github-search/C](https://github.com/search?q=language%3AC&type=repositories&s=stars&o=desc)
 
 [github-search/C++](https://github.com/search?q=language%3AC%2B%2B&type=repositories&s=stars&o=desc)
